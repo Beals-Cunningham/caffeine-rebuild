@@ -1,0 +1,32 @@
+html, body {
+    overflow-x: hidden;
+}
+
+.slick-arrow{
+ margin:20px 
+}
+
+.sidesetnav{
+ list-style:none;
+ padding:0px
+}
+
+.sidesetnav li a{
+ display:block; 
+ padding:10px;
+ background:#e0dede;
+ color:#333;
+ margin:2px
+}
+
+.clearfix{
+ width:100% 
+}
+
+.form-cont{
+ padding:5px;
+}
+
+.error{
+ color:red; 
+}

@@ -1,0 +1,180 @@
+@media (min-width: 1200px){
+    .container {
+        max-width: 1200px !important;
+    }
+}
+
+:root {
+    --bcss-primary: #231F20;
+    --bcss-secondary: #185733;
+    --bcss-active: #FFBE03;
+    --bcss-light: #FFF;
+}
+
+body{
+    padding: 0;
+    margin: 0;
+    color: var(--bcss-primary);
+    font-size: .9rem;
+}
+
+a,
+a:hover,
+a:visited{
+    color: inherit;
+    text-decoration: inherit;
+}
+
+.text-secondary{
+    color: var(--bcss-secondary)!important;
+}
+.text-active{
+    color: var(--bcss-active)!important;
+}
+.text-light{
+    color: var(--bcss-light)!important;
+}
+
+.background-primary{
+    background-color: var(--bcss-primary)!important;
+}
+.background-secondary{
+    background-color: var(--bcss-secondary)!important;
+}
+.background-active{
+    background-color: var(--bcss-active)!important;
+}
+.background-light{
+    background-color: var(--bcss-light)!important;
+}
+
+.form-process .section-title,
+.form-process .border {
+    display: none;
+}
+
+.form-process .form-control {
+    display: block;
+    width: 100%;
+    padding: 0.375rem 0.75rem;
+    font-size: 0.8rem;
+    line-height: 1.6rem;
+    color: #495057;
+    background-color: #fff;
+    background-clip: padding-box;
+    border: 2px solid var(--bcss-secondary);
+    border-radius: 0;
+    transition: border-color .15s ease-in-out, box-shadow .15s ease-in-out;
+}
+
+.form-process input:focus,
+.form-process select:focus,
+.form-process textarea:focus {
+    outline: none !important;
+}
+
+.form-process select {
+    background-color: white;
+    border: thin solid grey;
+    border-radius: 4px;
+    display: inline-block;
+    font: inherit;
+    line-height: 1.5em;
+    padding: 0.5em 3.5em 0.5em 1em;
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+    -webkit-appearance: none;
+    -moz-appearance: none;
+}
+
+.form-process select {
+    background-image: url("data:image/svg+xml,%3Csvg class='svg-icon' style='width: 1em; height: 1em;vertical-align: middle;fill:%2318572E;overflow: hidden;' viewBox='0 0 1024 1024' version='1.1' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath d='M512.03799 0 921.675981 411.648 102.4 411.648 512.03799 0ZM512.03799 995.328 102.4 583.68 921.675981 583.68 512.03799 995.328Z' /%3E%3C/svg%3E");
+    background-size: 1.5em 1.5em;
+    background-position: right;
+    background-repeat: no-repeat;
+
+}
+.form-process .btn-success{
+    background: var(--bcss-secondary);
+    color: var(--bcss-active);
+    border: 1px solid var(--bcss-secondary);
+    transition: .35s ease-in-out;
+    font-size: 1rem;
+    margin-top: 16px;
+    position: relative;
+
+}
+.form-process .btn-success:after {
+    content: "";
+    position: absolute;
+    top: 49%;
+    left: 115%;
+    border-bottom: 2px solid var(--bcss-secondary);
+    width: 9000%;
+    max-width: 1083px;
+
+}
+
+.form-process.row{
+    overflow-x:hidden;
+}
+
+.btn-more_info{
+    color:var(--bcss-active)!important;
+}
+
+div.panel-heading h3.panel-title{
+    color:white;
+}
+
+.modal-content .modal-footer .btn-primary{
+    background-color: var(--bcss-secondary);
+}
+
+.modal-content .modal-body .panel-success .panel-body a{
+    background-color: var(--bcss-secondary);
+}
+
+
+#navbarNavDropdown ul{
+    gap: .25rem;
+}
+
+h1.Industry-Demi-Italic, h1 span.Industry-Demi-Italic{
+    font-weight:800;
+}
+
+.element-line a.text-link{
+    text-decoration: underline!important;
+}
+
+a[href="Used-Equipment"]{
+    padding-right:.25rem!important;
+}
+
+#main > div.body_sets > div > div.container-fluid.position-relative.background-active > div > div > a > div > div.col > h2.text-secondary.text-right.loc-green-text{
+    color:black!important;
+    font-style: italic;
+
+}
+
+#main > div.body_sets > div > div.container-fluid.position-relative.background-active > div > div > a > div > div.col > h2.text-secondary.text-right.loc-green-text-sm{
+    color:black!important;
+    font-style: italic;
+
+}
+
+#main > div.body_sets > div > div.container-fluid.position-relative.background-active > div > div > a > div > div.d-flex.flex-column.justify-content-between.mr-3 > span{
+    color: var(--bcss-secondary)!important;
+    font-weight: 800;
+    font-style: italic;
+}
+
+#main > div.body_sets > div > div.container-fluid.py-5.position-relative.byo-container > div > div h2{
+    font-size: 3.5rem;
+}
+
+#main > div.body_sets > div > div:nth-child(3) > div > div > div:nth-child(5) > a > strong{
+    line-height:.8rem;
+}

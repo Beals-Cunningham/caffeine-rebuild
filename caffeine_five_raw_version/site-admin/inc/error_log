@@ -1,0 +1,643 @@
+[05-Aug-2020 09:51:09 America/Chicago] PHP Notice:  Undefined variable: acgt in /home/sunsouth/public_html/site-admin/inc/asyncCalls.php on line 868
+[05-Aug-2020 09:51:09 America/Chicago] PHP Notice:  A session had already been started - ignoring session_start() in /home/sunsouth/public_html/site-admin/inc/caffeine.php on line 40
+[05-Aug-2020 09:51:09 America/Chicago] PHP Notice:  Undefined variable: messCount in /home/sunsouth/public_html/site-admin/inc/caffeine.php on line 3006
+[05-Aug-2020 09:51:11 America/Chicago] PHP Notice:  Undefined variable: acgt in /home/sunsouth/public_html/site-admin/inc/asyncCalls.php on line 868
+[05-Aug-2020 09:51:11 America/Chicago] PHP Notice:  A session had already been started - ignoring session_start() in /home/sunsouth/public_html/site-admin/inc/caffeine.php on line 40
+[05-Aug-2020 09:51:11 America/Chicago] PHP Notice:  Undefined variable: messCount in /home/sunsouth/public_html/site-admin/inc/caffeine.php on line 3006
+[05-Aug-2020 09:51:12 America/Chicago] PHP Notice:  Undefined variable: acgt in /home/sunsouth/public_html/site-admin/inc/asyncCalls.php on line 868
+[05-Aug-2020 09:51:12 America/Chicago] PHP Notice:  A session had already been started - ignoring session_start() in /home/sunsouth/public_html/site-admin/inc/caffeine.php on line 40
+[05-Aug-2020 09:51:12 America/Chicago] PHP Notice:  Undefined variable: messCount in /home/sunsouth/public_html/site-admin/inc/caffeine.php on line 3006
+[05-Aug-2020 09:51:15 America/Chicago] PHP Notice:  Undefined variable: acgt in /home/sunsouth/public_html/site-admin/inc/asyncCalls.php on line 868
+[05-Aug-2020 09:51:15 America/Chicago] PHP Notice:  A session had already been started - ignoring session_start() in /home/sunsouth/public_html/site-admin/inc/caffeine.php on line 40
+[05-Aug-2020 09:51:15 America/Chicago] PHP Notice:  Undefined variable: messCount in /home/sunsouth/public_html/site-admin/inc/caffeine.php on line 3006
+[05-Aug-2020 09:51:17 America/Chicago] PHP Notice:  Undefined variable: acgt in /home/sunsouth/public_html/site-admin/inc/asyncCalls.php on line 868
+[05-Aug-2020 09:51:17 America/Chicago] PHP Notice:  A session had already been started - ignoring session_start() in /home/sunsouth/public_html/site-admin/inc/caffeine.php on line 40
+[05-Aug-2020 09:51:17 America/Chicago] PHP Notice:  Undefined variable: messCount in /home/sunsouth/public_html/site-admin/inc/caffeine.php on line 3006
+[05-Aug-2020 09:51:18 America/Chicago] PHP Notice:  Undefined variable: acgt in /home/sunsouth/public_html/site-admin/inc/asyncCalls.php on line 868
+[05-Aug-2020 09:51:18 America/Chicago] PHP Notice:  A session had already been started - ignoring session_start() in /home/sunsouth/public_html/site-admin/inc/caffeine.php on line 40
+[05-Aug-2020 09:51:18 America/Chicago] PHP Notice:  Undefined variable: messCount in /home/sunsouth/public_html/site-admin/inc/caffeine.php on line 3006
+[05-Aug-2020 09:51:22 America/Chicago] PHP Notice:  Undefined variable: acgt in /home/sunsouth/public_html/site-admin/inc/asyncCalls.php on line 868
+[05-Aug-2020 09:51:22 America/Chicago] PHP Notice:  A session had already been started - ignoring session_start() in /home/sunsouth/public_html/site-admin/inc/caffeine.php on line 40
+[05-Aug-2020 09:51:22 America/Chicago] PHP Notice:  Undefined variable: messCount in /home/sunsouth/public_html/site-admin/inc/caffeine.php on line 3006
+[05-Aug-2020 09:51:23 America/Chicago] PHP Notice:  Undefined variable: acgt in /home/sunsouth/public_html/site-admin/inc/asyncCalls.php on line 868
+[05-Aug-2020 09:51:23 America/Chicago] PHP Notice:  A session had already been started - ignoring session_start() in /home/sunsouth/public_html/site-admin/inc/caffeine.php on line 40
+[05-Aug-2020 09:51:23 America/Chicago] PHP Notice:  Undefined variable: messCount in /home/sunsouth/public_html/site-admin/inc/caffeine.php on line 3006
+[05-Aug-2020 09:51:24 America/Chicago] PHP Notice:  Undefined variable: acgt in /home/sunsouth/public_html/site-admin/inc/asyncCalls.php on line 868
+[05-Aug-2020 09:51:24 America/Chicago] PHP Notice:  A session had already been started - ignoring session_start() in /home/sunsouth/public_html/site-admin/inc/caffeine.php on line 40
+[05-Aug-2020 09:51:24 America/Chicago] PHP Notice:  Undefined variable: messCount in /home/sunsouth/public_html/site-admin/inc/caffeine.php on line 3006
+[05-Aug-2020 09:51:28 America/Chicago] PHP Notice:  Undefined variable: acgt in /home/sunsouth/public_html/site-admin/inc/asyncCalls.php on line 868
+[05-Aug-2020 09:51:28 America/Chicago] PHP Notice:  A session had already been started - ignoring session_start() in /home/sunsouth/public_html/site-admin/inc/caffeine.php on line 40
+[05-Aug-2020 09:51:28 America/Chicago] PHP Notice:  Undefined variable: messCount in /home/sunsouth/public_html/site-admin/inc/caffeine.php on line 3006
+[05-Aug-2020 09:51:29 America/Chicago] PHP Notice:  Undefined variable: acgt in /home/sunsouth/public_html/site-admin/inc/asyncCalls.php on line 868
+[05-Aug-2020 09:51:29 America/Chicago] PHP Notice:  A session had already been started - ignoring session_start() in /home/sunsouth/public_html/site-admin/inc/caffeine.php on line 40
+[05-Aug-2020 09:51:29 America/Chicago] PHP Notice:  Undefined variable: messCount in /home/sunsouth/public_html/site-admin/inc/caffeine.php on line 3006
+[05-Aug-2020 09:51:30 America/Chicago] PHP Notice:  Undefined variable: acgt in /home/sunsouth/public_html/site-admin/inc/asyncCalls.php on line 868
+[05-Aug-2020 09:51:30 America/Chicago] PHP Notice:  A session had already been started - ignoring session_start() in /home/sunsouth/public_html/site-admin/inc/caffeine.php on line 40
+[05-Aug-2020 09:51:30 America/Chicago] PHP Notice:  Undefined variable: messCount in /home/sunsouth/public_html/site-admin/inc/caffeine.php on line 3006
+[05-Aug-2020 09:51:33 America/Chicago] PHP Notice:  Undefined variable: acgt in /home/sunsouth/public_html/site-admin/inc/asyncCalls.php on line 868
+[05-Aug-2020 09:51:33 America/Chicago] PHP Notice:  A session had already been started - ignoring session_start() in /home/sunsouth/public_html/site-admin/inc/caffeine.php on line 40
+[05-Aug-2020 09:51:33 America/Chicago] PHP Notice:  Undefined variable: messCount in /home/sunsouth/public_html/site-admin/inc/caffeine.php on line 3006
+[05-Aug-2020 09:51:36 America/Chicago] PHP Notice:  Undefined variable: acgt in /home/sunsouth/public_html/site-admin/inc/asyncCalls.php on line 868
+[05-Aug-2020 09:51:36 America/Chicago] PHP Notice:  A session had already been started - ignoring session_start() in /home/sunsouth/public_html/site-admin/inc/caffeine.php on line 40
+[05-Aug-2020 09:51:36 America/Chicago] PHP Notice:  Undefined variable: messCount in /home/sunsouth/public_html/site-admin/inc/caffeine.php on line 3006
+[05-Aug-2020 09:51:36 America/Chicago] PHP Notice:  Undefined variable: acgt in /home/sunsouth/public_html/site-admin/inc/asyncCalls.php on line 868
+[05-Aug-2020 09:51:36 America/Chicago] PHP Notice:  A session had already been started - ignoring session_start() in /home/sunsouth/public_html/site-admin/inc/caffeine.php on line 40
+[05-Aug-2020 09:51:36 America/Chicago] PHP Notice:  Undefined variable: messCount in /home/sunsouth/public_html/site-admin/inc/caffeine.php on line 3006
+[05-Aug-2020 09:51:38 America/Chicago] PHP Notice:  Undefined variable: acgt in /home/sunsouth/public_html/site-admin/inc/asyncCalls.php on line 868
+[05-Aug-2020 09:51:38 America/Chicago] PHP Notice:  A session had already been started - ignoring session_start() in /home/sunsouth/public_html/site-admin/inc/caffeine.php on line 40
+[05-Aug-2020 09:51:38 America/Chicago] PHP Notice:  Undefined variable: messCount in /home/sunsouth/public_html/site-admin/inc/caffeine.php on line 3006
+[05-Aug-2020 09:51:41 America/Chicago] PHP Notice:  Undefined variable: acgt in /home/sunsouth/public_html/site-admin/inc/asyncCalls.php on line 868
+[05-Aug-2020 09:51:41 America/Chicago] PHP Notice:  A session had already been started - ignoring session_start() in /home/sunsouth/public_html/site-admin/inc/caffeine.php on line 40
+[05-Aug-2020 09:51:41 America/Chicago] PHP Notice:  Undefined variable: messCount in /home/sunsouth/public_html/site-admin/inc/caffeine.php on line 3006
+[05-Aug-2020 09:51:43 America/Chicago] PHP Notice:  Undefined variable: acgt in /home/sunsouth/public_html/site-admin/inc/asyncCalls.php on line 868
+[05-Aug-2020 09:51:43 America/Chicago] PHP Notice:  A session had already been started - ignoring session_start() in /home/sunsouth/public_html/site-admin/inc/caffeine.php on line 40
+[05-Aug-2020 09:51:43 America/Chicago] PHP Notice:  Undefined variable: messCount in /home/sunsouth/public_html/site-admin/inc/caffeine.php on line 3006
+[05-Aug-2020 09:51:44 America/Chicago] PHP Notice:  Undefined variable: acgt in /home/sunsouth/public_html/site-admin/inc/asyncCalls.php on line 868
+[05-Aug-2020 09:51:44 America/Chicago] PHP Notice:  A session had already been started - ignoring session_start() in /home/sunsouth/public_html/site-admin/inc/caffeine.php on line 40
+[05-Aug-2020 09:51:44 America/Chicago] PHP Notice:  Undefined variable: messCount in /home/sunsouth/public_html/site-admin/inc/caffeine.php on line 3006
+[05-Aug-2020 09:51:47 America/Chicago] PHP Notice:  Undefined variable: acgt in /home/sunsouth/public_html/site-admin/inc/asyncCalls.php on line 868
+[05-Aug-2020 09:51:47 America/Chicago] PHP Notice:  A session had already been started - ignoring session_start() in /home/sunsouth/public_html/site-admin/inc/caffeine.php on line 40
+[05-Aug-2020 09:51:47 America/Chicago] PHP Notice:  Undefined variable: messCount in /home/sunsouth/public_html/site-admin/inc/caffeine.php on line 3006
+[05-Aug-2020 09:51:48 America/Chicago] PHP Notice:  Undefined variable: acgt in /home/sunsouth/public_html/site-admin/inc/asyncCalls.php on line 868
+[05-Aug-2020 09:51:48 America/Chicago] PHP Notice:  A session had already been started - ignoring session_start() in /home/sunsouth/public_html/site-admin/inc/caffeine.php on line 40
+[05-Aug-2020 09:51:48 America/Chicago] PHP Notice:  Undefined variable: messCount in /home/sunsouth/public_html/site-admin/inc/caffeine.php on line 3006
+[05-Aug-2020 09:51:49 America/Chicago] PHP Notice:  Undefined variable: acgt in /home/sunsouth/public_html/site-admin/inc/asyncCalls.php on line 868
+[05-Aug-2020 09:51:49 America/Chicago] PHP Notice:  A session had already been started - ignoring session_start() in /home/sunsouth/public_html/site-admin/inc/caffeine.php on line 40
+[05-Aug-2020 09:51:49 America/Chicago] PHP Notice:  Undefined variable: messCount in /home/sunsouth/public_html/site-admin/inc/caffeine.php on line 3006
+[05-Aug-2020 09:51:53 America/Chicago] PHP Notice:  Undefined variable: acgt in /home/sunsouth/public_html/site-admin/inc/asyncCalls.php on line 868
+[05-Aug-2020 09:51:53 America/Chicago] PHP Notice:  A session had already been started - ignoring session_start() in /home/sunsouth/public_html/site-admin/inc/caffeine.php on line 40
+[05-Aug-2020 09:51:53 America/Chicago] PHP Notice:  Undefined variable: messCount in /home/sunsouth/public_html/site-admin/inc/caffeine.php on line 3006
+[05-Aug-2020 09:51:54 America/Chicago] PHP Notice:  Undefined variable: acgt in /home/sunsouth/public_html/site-admin/inc/asyncCalls.php on line 868
+[05-Aug-2020 09:51:54 America/Chicago] PHP Notice:  A session had already been started - ignoring session_start() in /home/sunsouth/public_html/site-admin/inc/caffeine.php on line 40
+[05-Aug-2020 09:51:54 America/Chicago] PHP Notice:  Undefined variable: messCount in /home/sunsouth/public_html/site-admin/inc/caffeine.php on line 3006
+[05-Aug-2020 09:51:57 America/Chicago] PHP Notice:  Undefined variable: acgt in /home/sunsouth/public_html/site-admin/inc/asyncCalls.php on line 868
+[05-Aug-2020 09:51:57 America/Chicago] PHP Notice:  A session had already been started - ignoring session_start() in /home/sunsouth/public_html/site-admin/inc/caffeine.php on line 40
+[05-Aug-2020 09:51:57 America/Chicago] PHP Notice:  Undefined variable: messCount in /home/sunsouth/public_html/site-admin/inc/caffeine.php on line 3006
+[05-Aug-2020 09:51:59 America/Chicago] PHP Notice:  Undefined variable: acgt in /home/sunsouth/public_html/site-admin/inc/asyncCalls.php on line 868
+[05-Aug-2020 09:51:59 America/Chicago] PHP Notice:  A session had already been started - ignoring session_start() in /home/sunsouth/public_html/site-admin/inc/caffeine.php on line 40
+[05-Aug-2020 09:51:59 America/Chicago] PHP Notice:  Undefined variable: messCount in /home/sunsouth/public_html/site-admin/inc/caffeine.php on line 3006
+[05-Aug-2020 09:51:59 America/Chicago] PHP Notice:  Undefined variable: acgt in /home/sunsouth/public_html/site-admin/inc/asyncCalls.php on line 868
+[05-Aug-2020 09:51:59 America/Chicago] PHP Notice:  A session had already been started - ignoring session_start() in /home/sunsouth/public_html/site-admin/inc/caffeine.php on line 40
+[05-Aug-2020 09:51:59 America/Chicago] PHP Notice:  Undefined variable: messCount in /home/sunsouth/public_html/site-admin/inc/caffeine.php on line 3006
+[05-Aug-2020 09:52:04 America/Chicago] PHP Notice:  Undefined variable: acgt in /home/sunsouth/public_html/site-admin/inc/asyncCalls.php on line 868
+[05-Aug-2020 09:52:04 America/Chicago] PHP Notice:  A session had already been started - ignoring session_start() in /home/sunsouth/public_html/site-admin/inc/caffeine.php on line 40
+[05-Aug-2020 09:52:04 America/Chicago] PHP Notice:  Undefined variable: messCount in /home/sunsouth/public_html/site-admin/inc/caffeine.php on line 3006
+[05-Aug-2020 09:52:05 America/Chicago] PHP Notice:  Undefined variable: acgt in /home/sunsouth/public_html/site-admin/inc/asyncCalls.php on line 868
+[05-Aug-2020 09:52:05 America/Chicago] PHP Notice:  A session had already been started - ignoring session_start() in /home/sunsouth/public_html/site-admin/inc/caffeine.php on line 40
+[05-Aug-2020 09:52:05 America/Chicago] PHP Notice:  Undefined variable: messCount in /home/sunsouth/public_html/site-admin/inc/caffeine.php on line 3006
+[05-Aug-2020 09:52:05 America/Chicago] PHP Notice:  Undefined variable: acgt in /home/sunsouth/public_html/site-admin/inc/asyncCalls.php on line 868
+[05-Aug-2020 09:52:05 America/Chicago] PHP Notice:  A session had already been started - ignoring session_start() in /home/sunsouth/public_html/site-admin/inc/caffeine.php on line 40
+[05-Aug-2020 09:52:05 America/Chicago] PHP Notice:  Undefined variable: messCount in /home/sunsouth/public_html/site-admin/inc/caffeine.php on line 3006
+[05-Aug-2020 09:52:09 America/Chicago] PHP Notice:  Undefined variable: acgt in /home/sunsouth/public_html/site-admin/inc/asyncCalls.php on line 868
+[05-Aug-2020 09:52:09 America/Chicago] PHP Notice:  A session had already been started - ignoring session_start() in /home/sunsouth/public_html/site-admin/inc/caffeine.php on line 40
+[05-Aug-2020 09:52:09 America/Chicago] PHP Notice:  Undefined variable: messCount in /home/sunsouth/public_html/site-admin/inc/caffeine.php on line 3006
+[05-Aug-2020 09:52:10 America/Chicago] PHP Notice:  Undefined variable: acgt in /home/sunsouth/public_html/site-admin/inc/asyncCalls.php on line 868
+[05-Aug-2020 09:52:10 America/Chicago] PHP Notice:  A session had already been started - ignoring session_start() in /home/sunsouth/public_html/site-admin/inc/caffeine.php on line 40
+[05-Aug-2020 09:52:10 America/Chicago] PHP Notice:  Undefined variable: messCount in /home/sunsouth/public_html/site-admin/inc/caffeine.php on line 3006
+[05-Aug-2020 09:52:11 America/Chicago] PHP Notice:  Undefined variable: acgt in /home/sunsouth/public_html/site-admin/inc/asyncCalls.php on line 868
+[05-Aug-2020 09:52:11 America/Chicago] PHP Notice:  A session had already been started - ignoring session_start() in /home/sunsouth/public_html/site-admin/inc/caffeine.php on line 40
+[05-Aug-2020 09:52:11 America/Chicago] PHP Notice:  Undefined variable: messCount in /home/sunsouth/public_html/site-admin/inc/caffeine.php on line 3006
+[05-Aug-2020 09:52:15 America/Chicago] PHP Notice:  Undefined variable: acgt in /home/sunsouth/public_html/site-admin/inc/asyncCalls.php on line 868
+[05-Aug-2020 09:52:15 America/Chicago] PHP Notice:  A session had already been started - ignoring session_start() in /home/sunsouth/public_html/site-admin/inc/caffeine.php on line 40
+[05-Aug-2020 09:52:15 America/Chicago] PHP Notice:  Undefined variable: messCount in /home/sunsouth/public_html/site-admin/inc/caffeine.php on line 3006
+[05-Aug-2020 09:52:15 America/Chicago] PHP Notice:  Undefined variable: acgt in /home/sunsouth/public_html/site-admin/inc/asyncCalls.php on line 868
+[05-Aug-2020 09:52:15 America/Chicago] PHP Notice:  A session had already been started - ignoring session_start() in /home/sunsouth/public_html/site-admin/inc/caffeine.php on line 40
+[05-Aug-2020 09:52:15 America/Chicago] PHP Notice:  Undefined variable: messCount in /home/sunsouth/public_html/site-admin/inc/caffeine.php on line 3006
+[05-Aug-2020 09:52:17 America/Chicago] PHP Notice:  Undefined variable: acgt in /home/sunsouth/public_html/site-admin/inc/asyncCalls.php on line 868
+[05-Aug-2020 09:52:17 America/Chicago] PHP Notice:  A session had already been started - ignoring session_start() in /home/sunsouth/public_html/site-admin/inc/caffeine.php on line 40
+[05-Aug-2020 09:52:17 America/Chicago] PHP Notice:  Undefined variable: messCount in /home/sunsouth/public_html/site-admin/inc/caffeine.php on line 3006
+[05-Aug-2020 09:52:20 America/Chicago] PHP Notice:  Undefined variable: acgt in /home/sunsouth/public_html/site-admin/inc/asyncCalls.php on line 868
+[05-Aug-2020 09:52:20 America/Chicago] PHP Notice:  A session had already been started - ignoring session_start() in /home/sunsouth/public_html/site-admin/inc/caffeine.php on line 40
+[05-Aug-2020 09:52:20 America/Chicago] PHP Notice:  Undefined variable: messCount in /home/sunsouth/public_html/site-admin/inc/caffeine.php on line 3006
+[05-Aug-2020 09:52:21 America/Chicago] PHP Notice:  Undefined variable: acgt in /home/sunsouth/public_html/site-admin/inc/asyncCalls.php on line 868
+[05-Aug-2020 09:52:21 America/Chicago] PHP Notice:  A session had already been started - ignoring session_start() in /home/sunsouth/public_html/site-admin/inc/caffeine.php on line 40
+[05-Aug-2020 09:52:21 America/Chicago] PHP Notice:  Undefined variable: messCount in /home/sunsouth/public_html/site-admin/inc/caffeine.php on line 3006
+[05-Aug-2020 09:52:22 America/Chicago] PHP Notice:  Undefined variable: acgt in /home/sunsouth/public_html/site-admin/inc/asyncCalls.php on line 868
+[05-Aug-2020 09:52:22 America/Chicago] PHP Notice:  A session had already been started - ignoring session_start() in /home/sunsouth/public_html/site-admin/inc/caffeine.php on line 40
+[05-Aug-2020 09:52:22 America/Chicago] PHP Notice:  Undefined variable: messCount in /home/sunsouth/public_html/site-admin/inc/caffeine.php on line 3006
+[05-Aug-2020 09:52:25 America/Chicago] PHP Notice:  Undefined variable: acgt in /home/sunsouth/public_html/site-admin/inc/asyncCalls.php on line 868
+[05-Aug-2020 09:52:25 America/Chicago] PHP Notice:  A session had already been started - ignoring session_start() in /home/sunsouth/public_html/site-admin/inc/caffeine.php on line 40
+[05-Aug-2020 09:52:25 America/Chicago] PHP Notice:  Undefined variable: messCount in /home/sunsouth/public_html/site-admin/inc/caffeine.php on line 3006
+[05-Aug-2020 09:52:27 America/Chicago] PHP Notice:  Undefined variable: acgt in /home/sunsouth/public_html/site-admin/inc/asyncCalls.php on line 868
+[05-Aug-2020 09:52:27 America/Chicago] PHP Notice:  A session had already been started - ignoring session_start() in /home/sunsouth/public_html/site-admin/inc/caffeine.php on line 40
+[05-Aug-2020 09:52:27 America/Chicago] PHP Notice:  Undefined variable: messCount in /home/sunsouth/public_html/site-admin/inc/caffeine.php on line 3006
+[05-Aug-2020 09:52:28 America/Chicago] PHP Notice:  Undefined variable: acgt in /home/sunsouth/public_html/site-admin/inc/asyncCalls.php on line 868
+[05-Aug-2020 09:52:28 America/Chicago] PHP Notice:  A session had already been started - ignoring session_start() in /home/sunsouth/public_html/site-admin/inc/caffeine.php on line 40
+[05-Aug-2020 09:52:28 America/Chicago] PHP Notice:  Undefined variable: messCount in /home/sunsouth/public_html/site-admin/inc/caffeine.php on line 3006
+[05-Aug-2020 09:52:31 America/Chicago] PHP Notice:  Undefined variable: acgt in /home/sunsouth/public_html/site-admin/inc/asyncCalls.php on line 868
+[05-Aug-2020 09:52:31 America/Chicago] PHP Notice:  A session had already been started - ignoring session_start() in /home/sunsouth/public_html/site-admin/inc/caffeine.php on line 40
+[05-Aug-2020 09:52:31 America/Chicago] PHP Notice:  Undefined variable: messCount in /home/sunsouth/public_html/site-admin/inc/caffeine.php on line 3006
+[05-Aug-2020 09:52:34 America/Chicago] PHP Notice:  Undefined variable: acgt in /home/sunsouth/public_html/site-admin/inc/asyncCalls.php on line 868
+[05-Aug-2020 09:52:34 America/Chicago] PHP Notice:  A session had already been started - ignoring session_start() in /home/sunsouth/public_html/site-admin/inc/caffeine.php on line 40
+[05-Aug-2020 09:52:34 America/Chicago] PHP Notice:  Undefined variable: messCount in /home/sunsouth/public_html/site-admin/inc/caffeine.php on line 3006
+[05-Aug-2020 09:52:34 America/Chicago] PHP Notice:  Undefined variable: acgt in /home/sunsouth/public_html/site-admin/inc/asyncCalls.php on line 868
+[05-Aug-2020 09:52:34 America/Chicago] PHP Notice:  A session had already been started - ignoring session_start() in /home/sunsouth/public_html/site-admin/inc/caffeine.php on line 40
+[05-Aug-2020 09:52:34 America/Chicago] PHP Notice:  Undefined variable: messCount in /home/sunsouth/public_html/site-admin/inc/caffeine.php on line 3006
+[05-Aug-2020 09:52:36 America/Chicago] PHP Notice:  Undefined variable: acgt in /home/sunsouth/public_html/site-admin/inc/asyncCalls.php on line 868
+[05-Aug-2020 09:52:36 America/Chicago] PHP Notice:  A session had already been started - ignoring session_start() in /home/sunsouth/public_html/site-admin/inc/caffeine.php on line 40
+[05-Aug-2020 09:52:36 America/Chicago] PHP Notice:  Undefined variable: messCount in /home/sunsouth/public_html/site-admin/inc/caffeine.php on line 3006
+[05-Aug-2020 09:52:39 America/Chicago] PHP Notice:  Undefined variable: acgt in /home/sunsouth/public_html/site-admin/inc/asyncCalls.php on line 868
+[05-Aug-2020 09:52:39 America/Chicago] PHP Notice:  A session had already been started - ignoring session_start() in /home/sunsouth/public_html/site-admin/inc/caffeine.php on line 40
+[05-Aug-2020 09:52:39 America/Chicago] PHP Notice:  Undefined variable: messCount in /home/sunsouth/public_html/site-admin/inc/caffeine.php on line 3006
+[05-Aug-2020 09:52:40 America/Chicago] PHP Notice:  Undefined variable: acgt in /home/sunsouth/public_html/site-admin/inc/asyncCalls.php on line 868
+[05-Aug-2020 09:52:40 America/Chicago] PHP Notice:  A session had already been started - ignoring session_start() in /home/sunsouth/public_html/site-admin/inc/caffeine.php on line 40
+[05-Aug-2020 09:52:40 America/Chicago] PHP Notice:  Undefined variable: messCount in /home/sunsouth/public_html/site-admin/inc/caffeine.php on line 3006
+[05-Aug-2020 09:52:41 America/Chicago] PHP Notice:  Undefined variable: acgt in /home/sunsouth/public_html/site-admin/inc/asyncCalls.php on line 868
+[05-Aug-2020 09:52:41 America/Chicago] PHP Notice:  A session had already been started - ignoring session_start() in /home/sunsouth/public_html/site-admin/inc/caffeine.php on line 40
+[05-Aug-2020 09:52:41 America/Chicago] PHP Notice:  Undefined variable: messCount in /home/sunsouth/public_html/site-admin/inc/caffeine.php on line 3006
+[05-Aug-2020 09:52:46 America/Chicago] PHP Notice:  Undefined variable: acgt in /home/sunsouth/public_html/site-admin/inc/asyncCalls.php on line 868
+[05-Aug-2020 09:52:46 America/Chicago] PHP Notice:  A session had already been started - ignoring session_start() in /home/sunsouth/public_html/site-admin/inc/caffeine.php on line 40
+[05-Aug-2020 09:52:46 America/Chicago] PHP Notice:  Undefined variable: messCount in /home/sunsouth/public_html/site-admin/inc/caffeine.php on line 3006
+[05-Aug-2020 09:52:46 America/Chicago] PHP Notice:  Undefined variable: acgt in /home/sunsouth/public_html/site-admin/inc/asyncCalls.php on line 868
+[05-Aug-2020 09:52:46 America/Chicago] PHP Notice:  A session had already been started - ignoring session_start() in /home/sunsouth/public_html/site-admin/inc/caffeine.php on line 40
+[05-Aug-2020 09:52:46 America/Chicago] PHP Notice:  Undefined variable: messCount in /home/sunsouth/public_html/site-admin/inc/caffeine.php on line 3006
+[05-Aug-2020 09:52:47 America/Chicago] PHP Notice:  Undefined variable: acgt in /home/sunsouth/public_html/site-admin/inc/asyncCalls.php on line 868
+[05-Aug-2020 09:52:47 America/Chicago] PHP Notice:  A session had already been started - ignoring session_start() in /home/sunsouth/public_html/site-admin/inc/caffeine.php on line 40
+[05-Aug-2020 09:52:47 America/Chicago] PHP Notice:  Undefined variable: messCount in /home/sunsouth/public_html/site-admin/inc/caffeine.php on line 3006
+[05-Aug-2020 09:52:52 America/Chicago] PHP Notice:  Undefined variable: acgt in /home/sunsouth/public_html/site-admin/inc/asyncCalls.php on line 868
+[05-Aug-2020 09:52:52 America/Chicago] PHP Notice:  A session had already been started - ignoring session_start() in /home/sunsouth/public_html/site-admin/inc/caffeine.php on line 40
+[05-Aug-2020 09:52:52 America/Chicago] PHP Notice:  Undefined variable: messCount in /home/sunsouth/public_html/site-admin/inc/caffeine.php on line 3006
+[05-Aug-2020 09:52:52 America/Chicago] PHP Notice:  Undefined variable: acgt in /home/sunsouth/public_html/site-admin/inc/asyncCalls.php on line 868
+[05-Aug-2020 09:52:52 America/Chicago] PHP Notice:  A session had already been started - ignoring session_start() in /home/sunsouth/public_html/site-admin/inc/caffeine.php on line 40
+[05-Aug-2020 09:52:52 America/Chicago] PHP Notice:  Undefined variable: messCount in /home/sunsouth/public_html/site-admin/inc/caffeine.php on line 3006
+[05-Aug-2020 09:52:53 America/Chicago] PHP Notice:  Undefined variable: acgt in /home/sunsouth/public_html/site-admin/inc/asyncCalls.php on line 868
+[05-Aug-2020 09:52:53 America/Chicago] PHP Notice:  A session had already been started - ignoring session_start() in /home/sunsouth/public_html/site-admin/inc/caffeine.php on line 40
+[05-Aug-2020 09:52:53 America/Chicago] PHP Notice:  Undefined variable: messCount in /home/sunsouth/public_html/site-admin/inc/caffeine.php on line 3006
+[05-Aug-2020 09:52:57 America/Chicago] PHP Notice:  Undefined variable: acgt in /home/sunsouth/public_html/site-admin/inc/asyncCalls.php on line 868
+[05-Aug-2020 09:52:57 America/Chicago] PHP Notice:  A session had already been started - ignoring session_start() in /home/sunsouth/public_html/site-admin/inc/caffeine.php on line 40
+[05-Aug-2020 09:52:57 America/Chicago] PHP Notice:  Undefined variable: messCount in /home/sunsouth/public_html/site-admin/inc/caffeine.php on line 3006
+[05-Aug-2020 09:52:58 America/Chicago] PHP Notice:  Undefined variable: acgt in /home/sunsouth/public_html/site-admin/inc/asyncCalls.php on line 868
+[05-Aug-2020 09:52:58 America/Chicago] PHP Notice:  A session had already been started - ignoring session_start() in /home/sunsouth/public_html/site-admin/inc/caffeine.php on line 40
+[05-Aug-2020 09:52:58 America/Chicago] PHP Notice:  Undefined variable: messCount in /home/sunsouth/public_html/site-admin/inc/caffeine.php on line 3006
+[05-Aug-2020 09:52:59 America/Chicago] PHP Notice:  Undefined variable: acgt in /home/sunsouth/public_html/site-admin/inc/asyncCalls.php on line 868
+[05-Aug-2020 09:52:59 America/Chicago] PHP Notice:  A session had already been started - ignoring session_start() in /home/sunsouth/public_html/site-admin/inc/caffeine.php on line 40
+[05-Aug-2020 09:52:59 America/Chicago] PHP Notice:  Undefined variable: messCount in /home/sunsouth/public_html/site-admin/inc/caffeine.php on line 3006
+[05-Aug-2020 09:53:03 America/Chicago] PHP Notice:  Undefined variable: acgt in /home/sunsouth/public_html/site-admin/inc/asyncCalls.php on line 868
+[05-Aug-2020 09:53:03 America/Chicago] PHP Notice:  A session had already been started - ignoring session_start() in /home/sunsouth/public_html/site-admin/inc/caffeine.php on line 40
+[05-Aug-2020 09:53:03 America/Chicago] PHP Notice:  Undefined variable: messCount in /home/sunsouth/public_html/site-admin/inc/caffeine.php on line 3006
+[05-Aug-2020 09:53:04 America/Chicago] PHP Notice:  Undefined variable: acgt in /home/sunsouth/public_html/site-admin/inc/asyncCalls.php on line 868
+[05-Aug-2020 09:53:04 America/Chicago] PHP Notice:  A session had already been started - ignoring session_start() in /home/sunsouth/public_html/site-admin/inc/caffeine.php on line 40
+[05-Aug-2020 09:53:04 America/Chicago] PHP Notice:  Undefined variable: messCount in /home/sunsouth/public_html/site-admin/inc/caffeine.php on line 3006
+[05-Aug-2020 09:53:06 America/Chicago] PHP Notice:  Undefined variable: acgt in /home/sunsouth/public_html/site-admin/inc/asyncCalls.php on line 868
+[05-Aug-2020 09:53:06 America/Chicago] PHP Notice:  A session had already been started - ignoring session_start() in /home/sunsouth/public_html/site-admin/inc/caffeine.php on line 40
+[05-Aug-2020 09:53:06 America/Chicago] PHP Notice:  Undefined variable: messCount in /home/sunsouth/public_html/site-admin/inc/caffeine.php on line 3006
+[05-Aug-2020 09:53:08 America/Chicago] PHP Notice:  Undefined variable: acgt in /home/sunsouth/public_html/site-admin/inc/asyncCalls.php on line 868
+[05-Aug-2020 09:53:08 America/Chicago] PHP Notice:  A session had already been started - ignoring session_start() in /home/sunsouth/public_html/site-admin/inc/caffeine.php on line 40
+[05-Aug-2020 09:53:08 America/Chicago] PHP Notice:  Undefined variable: messCount in /home/sunsouth/public_html/site-admin/inc/caffeine.php on line 3006
+[05-Aug-2020 09:53:10 America/Chicago] PHP Notice:  Undefined variable: acgt in /home/sunsouth/public_html/site-admin/inc/asyncCalls.php on line 868
+[05-Aug-2020 09:53:10 America/Chicago] PHP Notice:  A session had already been started - ignoring session_start() in /home/sunsouth/public_html/site-admin/inc/caffeine.php on line 40
+[05-Aug-2020 09:53:10 America/Chicago] PHP Notice:  Undefined variable: messCount in /home/sunsouth/public_html/site-admin/inc/caffeine.php on line 3006
+[05-Aug-2020 09:53:11 America/Chicago] PHP Notice:  Undefined variable: acgt in /home/sunsouth/public_html/site-admin/inc/asyncCalls.php on line 868
+[05-Aug-2020 09:53:11 America/Chicago] PHP Notice:  A session had already been started - ignoring session_start() in /home/sunsouth/public_html/site-admin/inc/caffeine.php on line 40
+[05-Aug-2020 09:53:12 America/Chicago] PHP Notice:  Undefined variable: messCount in /home/sunsouth/public_html/site-admin/inc/caffeine.php on line 3006
+[05-Aug-2020 09:53:13 America/Chicago] PHP Notice:  Undefined variable: acgt in /home/sunsouth/public_html/site-admin/inc/asyncCalls.php on line 868
+[05-Aug-2020 09:53:13 America/Chicago] PHP Notice:  A session had already been started - ignoring session_start() in /home/sunsouth/public_html/site-admin/inc/caffeine.php on line 40
+[05-Aug-2020 09:53:13 America/Chicago] PHP Notice:  Undefined variable: messCount in /home/sunsouth/public_html/site-admin/inc/caffeine.php on line 3006
+[05-Aug-2020 09:53:16 America/Chicago] PHP Notice:  Undefined variable: acgt in /home/sunsouth/public_html/site-admin/inc/asyncCalls.php on line 868
+[05-Aug-2020 09:53:16 America/Chicago] PHP Notice:  A session had already been started - ignoring session_start() in /home/sunsouth/public_html/site-admin/inc/caffeine.php on line 40
+[05-Aug-2020 09:53:16 America/Chicago] PHP Notice:  Undefined variable: messCount in /home/sunsouth/public_html/site-admin/inc/caffeine.php on line 3006
+[05-Aug-2020 09:53:18 America/Chicago] PHP Notice:  Undefined variable: acgt in /home/sunsouth/public_html/site-admin/inc/asyncCalls.php on line 868
+[05-Aug-2020 09:53:18 America/Chicago] PHP Notice:  A session had already been started - ignoring session_start() in /home/sunsouth/public_html/site-admin/inc/caffeine.php on line 40
+[05-Aug-2020 09:53:18 America/Chicago] PHP Notice:  Undefined variable: messCount in /home/sunsouth/public_html/site-admin/inc/caffeine.php on line 3006
+[05-Aug-2020 09:53:19 America/Chicago] PHP Notice:  Undefined variable: acgt in /home/sunsouth/public_html/site-admin/inc/asyncCalls.php on line 868
+[05-Aug-2020 09:53:19 America/Chicago] PHP Notice:  A session had already been started - ignoring session_start() in /home/sunsouth/public_html/site-admin/inc/caffeine.php on line 40
+[05-Aug-2020 09:53:19 America/Chicago] PHP Notice:  Undefined variable: messCount in /home/sunsouth/public_html/site-admin/inc/caffeine.php on line 3006
+[05-Aug-2020 09:53:22 America/Chicago] PHP Notice:  Undefined variable: acgt in /home/sunsouth/public_html/site-admin/inc/asyncCalls.php on line 868
+[05-Aug-2020 09:53:22 America/Chicago] PHP Notice:  A session had already been started - ignoring session_start() in /home/sunsouth/public_html/site-admin/inc/caffeine.php on line 40
+[05-Aug-2020 09:53:22 America/Chicago] PHP Notice:  Undefined variable: messCount in /home/sunsouth/public_html/site-admin/inc/caffeine.php on line 3006
+[05-Aug-2020 09:53:23 America/Chicago] PHP Notice:  Undefined variable: acgt in /home/sunsouth/public_html/site-admin/inc/asyncCalls.php on line 868
+[05-Aug-2020 09:53:23 America/Chicago] PHP Notice:  A session had already been started - ignoring session_start() in /home/sunsouth/public_html/site-admin/inc/caffeine.php on line 40
+[05-Aug-2020 09:53:23 America/Chicago] PHP Notice:  Undefined variable: messCount in /home/sunsouth/public_html/site-admin/inc/caffeine.php on line 3006
+[05-Aug-2020 09:53:25 America/Chicago] PHP Notice:  Undefined variable: acgt in /home/sunsouth/public_html/site-admin/inc/asyncCalls.php on line 868
+[05-Aug-2020 09:53:25 America/Chicago] PHP Notice:  A session had already been started - ignoring session_start() in /home/sunsouth/public_html/site-admin/inc/caffeine.php on line 40
+[05-Aug-2020 09:53:25 America/Chicago] PHP Notice:  Undefined variable: messCount in /home/sunsouth/public_html/site-admin/inc/caffeine.php on line 3006
+[05-Aug-2020 09:53:28 America/Chicago] PHP Notice:  Undefined variable: acgt in /home/sunsouth/public_html/site-admin/inc/asyncCalls.php on line 868
+[05-Aug-2020 09:53:28 America/Chicago] PHP Notice:  A session had already been started - ignoring session_start() in /home/sunsouth/public_html/site-admin/inc/caffeine.php on line 40
+[05-Aug-2020 09:53:28 America/Chicago] PHP Notice:  Undefined variable: messCount in /home/sunsouth/public_html/site-admin/inc/caffeine.php on line 3006
+[05-Aug-2020 09:53:29 America/Chicago] PHP Notice:  Undefined variable: acgt in /home/sunsouth/public_html/site-admin/inc/asyncCalls.php on line 868
+[05-Aug-2020 09:53:29 America/Chicago] PHP Notice:  A session had already been started - ignoring session_start() in /home/sunsouth/public_html/site-admin/inc/caffeine.php on line 40
+[05-Aug-2020 09:53:29 America/Chicago] PHP Notice:  Undefined variable: messCount in /home/sunsouth/public_html/site-admin/inc/caffeine.php on line 3006
+[05-Aug-2020 09:53:31 America/Chicago] PHP Notice:  Undefined variable: acgt in /home/sunsouth/public_html/site-admin/inc/asyncCalls.php on line 868
+[05-Aug-2020 09:53:31 America/Chicago] PHP Notice:  A session had already been started - ignoring session_start() in /home/sunsouth/public_html/site-admin/inc/caffeine.php on line 40
+[05-Aug-2020 09:53:31 America/Chicago] PHP Notice:  Undefined variable: messCount in /home/sunsouth/public_html/site-admin/inc/caffeine.php on line 3006
+[05-Aug-2020 09:53:34 America/Chicago] PHP Notice:  Undefined variable: acgt in /home/sunsouth/public_html/site-admin/inc/asyncCalls.php on line 868
+[05-Aug-2020 09:53:34 America/Chicago] PHP Notice:  A session had already been started - ignoring session_start() in /home/sunsouth/public_html/site-admin/inc/caffeine.php on line 40
+[05-Aug-2020 09:53:34 America/Chicago] PHP Notice:  Undefined variable: messCount in /home/sunsouth/public_html/site-admin/inc/caffeine.php on line 3006
+[05-Aug-2020 09:53:34 America/Chicago] PHP Notice:  Undefined variable: acgt in /home/sunsouth/public_html/site-admin/inc/asyncCalls.php on line 868
+[05-Aug-2020 09:53:34 America/Chicago] PHP Notice:  A session had already been started - ignoring session_start() in /home/sunsouth/public_html/site-admin/inc/caffeine.php on line 40
+[05-Aug-2020 09:53:34 America/Chicago] PHP Notice:  Undefined variable: messCount in /home/sunsouth/public_html/site-admin/inc/caffeine.php on line 3006
+[05-Aug-2020 09:53:38 America/Chicago] PHP Notice:  Undefined variable: acgt in /home/sunsouth/public_html/site-admin/inc/asyncCalls.php on line 868
+[05-Aug-2020 09:53:38 America/Chicago] PHP Notice:  A session had already been started - ignoring session_start() in /home/sunsouth/public_html/site-admin/inc/caffeine.php on line 40
+[05-Aug-2020 09:53:38 America/Chicago] PHP Notice:  Undefined variable: messCount in /home/sunsouth/public_html/site-admin/inc/caffeine.php on line 3006
+[05-Aug-2020 09:53:39 America/Chicago] PHP Notice:  Undefined variable: acgt in /home/sunsouth/public_html/site-admin/inc/asyncCalls.php on line 868
+[05-Aug-2020 09:53:39 America/Chicago] PHP Notice:  A session had already been started - ignoring session_start() in /home/sunsouth/public_html/site-admin/inc/caffeine.php on line 40
+[05-Aug-2020 09:53:39 America/Chicago] PHP Notice:  Undefined variable: messCount in /home/sunsouth/public_html/site-admin/inc/caffeine.php on line 3006
+[05-Aug-2020 09:53:40 America/Chicago] PHP Notice:  Undefined variable: acgt in /home/sunsouth/public_html/site-admin/inc/asyncCalls.php on line 868
+[05-Aug-2020 09:53:40 America/Chicago] PHP Notice:  A session had already been started - ignoring session_start() in /home/sunsouth/public_html/site-admin/inc/caffeine.php on line 40
+[05-Aug-2020 09:53:40 America/Chicago] PHP Notice:  Undefined variable: messCount in /home/sunsouth/public_html/site-admin/inc/caffeine.php on line 3006
+[05-Aug-2020 09:53:44 America/Chicago] PHP Notice:  Undefined variable: acgt in /home/sunsouth/public_html/site-admin/inc/asyncCalls.php on line 868
+[05-Aug-2020 09:53:44 America/Chicago] PHP Notice:  A session had already been started - ignoring session_start() in /home/sunsouth/public_html/site-admin/inc/caffeine.php on line 40
+[05-Aug-2020 09:53:44 America/Chicago] PHP Notice:  Undefined variable: messCount in /home/sunsouth/public_html/site-admin/inc/caffeine.php on line 3006
+[05-Aug-2020 09:53:45 America/Chicago] PHP Notice:  Undefined variable: acgt in /home/sunsouth/public_html/site-admin/inc/asyncCalls.php on line 868
+[05-Aug-2020 09:53:45 America/Chicago] PHP Notice:  A session had already been started - ignoring session_start() in /home/sunsouth/public_html/site-admin/inc/caffeine.php on line 40
+[05-Aug-2020 09:53:45 America/Chicago] PHP Notice:  Undefined variable: messCount in /home/sunsouth/public_html/site-admin/inc/caffeine.php on line 3006
+[05-Aug-2020 09:53:47 America/Chicago] PHP Notice:  Undefined variable: acgt in /home/sunsouth/public_html/site-admin/inc/asyncCalls.php on line 868
+[05-Aug-2020 09:53:47 America/Chicago] PHP Notice:  A session had already been started - ignoring session_start() in /home/sunsouth/public_html/site-admin/inc/caffeine.php on line 40
+[05-Aug-2020 09:53:47 America/Chicago] PHP Notice:  Undefined variable: messCount in /home/sunsouth/public_html/site-admin/inc/caffeine.php on line 3006
+[05-Aug-2020 09:53:50 America/Chicago] PHP Notice:  Undefined variable: acgt in /home/sunsouth/public_html/site-admin/inc/asyncCalls.php on line 868
+[05-Aug-2020 09:53:50 America/Chicago] PHP Notice:  A session had already been started - ignoring session_start() in /home/sunsouth/public_html/site-admin/inc/caffeine.php on line 40
+[05-Aug-2020 09:53:50 America/Chicago] PHP Notice:  Undefined variable: messCount in /home/sunsouth/public_html/site-admin/inc/caffeine.php on line 3006
+[05-Aug-2020 09:53:50 America/Chicago] PHP Notice:  Undefined variable: acgt in /home/sunsouth/public_html/site-admin/inc/asyncCalls.php on line 868
+[05-Aug-2020 09:53:50 America/Chicago] PHP Notice:  A session had already been started - ignoring session_start() in /home/sunsouth/public_html/site-admin/inc/caffeine.php on line 40
+[05-Aug-2020 09:53:50 America/Chicago] PHP Notice:  Undefined variable: messCount in /home/sunsouth/public_html/site-admin/inc/caffeine.php on line 3006
+[05-Aug-2020 09:53:52 America/Chicago] PHP Notice:  Undefined variable: acgt in /home/sunsouth/public_html/site-admin/inc/asyncCalls.php on line 868
+[05-Aug-2020 09:53:52 America/Chicago] PHP Notice:  A session had already been started - ignoring session_start() in /home/sunsouth/public_html/site-admin/inc/caffeine.php on line 40
+[05-Aug-2020 09:53:52 America/Chicago] PHP Notice:  Undefined variable: messCount in /home/sunsouth/public_html/site-admin/inc/caffeine.php on line 3006
+[05-Aug-2020 09:53:55 America/Chicago] PHP Notice:  Undefined variable: acgt in /home/sunsouth/public_html/site-admin/inc/asyncCalls.php on line 868
+[05-Aug-2020 09:53:55 America/Chicago] PHP Notice:  Undefined variable: ars in /home/sunsouth/public_html/site-admin/inc/caffeine.php on line 2955
+[05-Aug-2020 09:53:55 America/Chicago] PHP Notice:  Undefined variable: acgt in /home/sunsouth/public_html/site-admin/inc/asyncCalls.php on line 868
+[05-Aug-2020 09:53:55 America/Chicago] PHP Notice:  A session had already been started - ignoring session_start() in /home/sunsouth/public_html/site-admin/inc/caffeine.php on line 40
+[05-Aug-2020 09:53:55 America/Chicago] PHP Notice:  Undefined variable: messCount in /home/sunsouth/public_html/site-admin/inc/caffeine.php on line 3006
+[05-Aug-2020 09:53:55 America/Chicago] PHP Notice:  Undefined variable: acgt in /home/sunsouth/public_html/site-admin/inc/asyncCalls.php on line 868
+[05-Aug-2020 09:53:55 America/Chicago] PHP Notice:  A session had already been started - ignoring session_start() in /home/sunsouth/public_html/site-admin/inc/caffeine.php on line 40
+[05-Aug-2020 09:53:55 America/Chicago] PHP Notice:  Undefined variable: messCount in /home/sunsouth/public_html/site-admin/inc/caffeine.php on line 3006
+[05-Aug-2020 09:53:57 America/Chicago] PHP Notice:  Undefined variable: acgt in /home/sunsouth/public_html/site-admin/inc/asyncCalls.php on line 868
+[05-Aug-2020 09:53:57 America/Chicago] PHP Notice:  A session had already been started - ignoring session_start() in /home/sunsouth/public_html/site-admin/inc/caffeine.php on line 40
+[05-Aug-2020 09:53:57 America/Chicago] PHP Notice:  Undefined variable: messCount in /home/sunsouth/public_html/site-admin/inc/caffeine.php on line 3006
+[05-Aug-2020 09:54:00 America/Chicago] PHP Notice:  Undefined variable: acgt in /home/sunsouth/public_html/site-admin/inc/asyncCalls.php on line 868
+[05-Aug-2020 09:54:00 America/Chicago] PHP Notice:  A session had already been started - ignoring session_start() in /home/sunsouth/public_html/site-admin/inc/caffeine.php on line 40
+[05-Aug-2020 09:54:00 America/Chicago] PHP Notice:  Undefined variable: messCount in /home/sunsouth/public_html/site-admin/inc/caffeine.php on line 3006
+[05-Aug-2020 09:54:00 America/Chicago] PHP Notice:  Undefined variable: acgt in /home/sunsouth/public_html/site-admin/inc/asyncCalls.php on line 868
+[05-Aug-2020 09:54:00 America/Chicago] PHP Notice:  A session had already been started - ignoring session_start() in /home/sunsouth/public_html/site-admin/inc/caffeine.php on line 40
+[05-Aug-2020 09:54:00 America/Chicago] PHP Notice:  Undefined variable: messCount in /home/sunsouth/public_html/site-admin/inc/caffeine.php on line 3006
+[05-Aug-2020 09:54:00 America/Chicago] PHP Notice:  Undefined variable: acgt in /home/sunsouth/public_html/site-admin/inc/asyncCalls.php on line 868
+[05-Aug-2020 09:54:00 America/Chicago] PHP Notice:  A session had already been started - ignoring session_start() in /home/sunsouth/public_html/site-admin/inc/caffeine.php on line 40
+[05-Aug-2020 09:54:00 America/Chicago] PHP Notice:  Undefined variable: messCount in /home/sunsouth/public_html/site-admin/inc/caffeine.php on line 3006
+[05-Aug-2020 09:54:02 America/Chicago] PHP Notice:  Undefined variable: acgt in /home/sunsouth/public_html/site-admin/inc/asyncCalls.php on line 868
+[05-Aug-2020 09:54:02 America/Chicago] PHP Notice:  Undefined variable: ars in /home/sunsouth/public_html/site-admin/inc/caffeine.php on line 2955
+[05-Aug-2020 09:54:04 America/Chicago] PHP Notice:  Undefined variable: acgt in /home/sunsouth/public_html/site-admin/inc/asyncCalls.php on line 868
+[05-Aug-2020 09:54:04 America/Chicago] PHP Notice:  Undefined variable: ars in /home/sunsouth/public_html/site-admin/inc/caffeine.php on line 2955
+[05-Aug-2020 09:54:04 America/Chicago] PHP Notice:  Undefined variable: acgt in /home/sunsouth/public_html/site-admin/inc/asyncCalls.php on line 868
+[05-Aug-2020 09:54:04 America/Chicago] PHP Notice:  A session had already been started - ignoring session_start() in /home/sunsouth/public_html/site-admin/inc/caffeine.php on line 40
+[05-Aug-2020 09:54:04 America/Chicago] PHP Notice:  Undefined variable: messCount in /home/sunsouth/public_html/site-admin/inc/caffeine.php on line 3006
+[05-Aug-2020 09:54:05 America/Chicago] PHP Notice:  Undefined variable: acgt in /home/sunsouth/public_html/site-admin/inc/asyncCalls.php on line 868
+[05-Aug-2020 09:54:05 America/Chicago] PHP Notice:  Undefined variable: ars in /home/sunsouth/public_html/site-admin/inc/caffeine.php on line 2955
+[05-Aug-2020 09:54:05 America/Chicago] PHP Notice:  Undefined variable: acgt in /home/sunsouth/public_html/site-admin/inc/asyncCalls.php on line 868
+[05-Aug-2020 09:54:05 America/Chicago] PHP Notice:  A session had already been started - ignoring session_start() in /home/sunsouth/public_html/site-admin/inc/caffeine.php on line 40
+[05-Aug-2020 09:54:05 America/Chicago] PHP Notice:  Undefined variable: messCount in /home/sunsouth/public_html/site-admin/inc/caffeine.php on line 3006
+[05-Aug-2020 09:54:05 America/Chicago] PHP Notice:  Undefined variable: acgt in /home/sunsouth/public_html/site-admin/inc/asyncCalls.php on line 868
+[05-Aug-2020 09:54:05 America/Chicago] PHP Notice:  A session had already been started - ignoring session_start() in /home/sunsouth/public_html/site-admin/inc/caffeine.php on line 40
+[05-Aug-2020 09:54:05 America/Chicago] PHP Notice:  Undefined variable: messCount in /home/sunsouth/public_html/site-admin/inc/caffeine.php on line 3006
+[05-Aug-2020 09:54:05 America/Chicago] PHP Notice:  Undefined variable: acgt in /home/sunsouth/public_html/site-admin/inc/asyncCalls.php on line 868
+[05-Aug-2020 09:54:05 America/Chicago] PHP Notice:  A session had already been started - ignoring session_start() in /home/sunsouth/public_html/site-admin/inc/caffeine.php on line 40
+[05-Aug-2020 09:54:05 America/Chicago] PHP Notice:  Undefined variable: messCount in /home/sunsouth/public_html/site-admin/inc/caffeine.php on line 3006
+[05-Aug-2020 09:54:10 America/Chicago] PHP Notice:  Undefined variable: acgt in /home/sunsouth/public_html/site-admin/inc/asyncCalls.php on line 868
+[05-Aug-2020 09:54:10 America/Chicago] PHP Notice:  A session had already been started - ignoring session_start() in /home/sunsouth/public_html/site-admin/inc/caffeine.php on line 40
+[05-Aug-2020 09:54:10 America/Chicago] PHP Notice:  Undefined variable: messCount in /home/sunsouth/public_html/site-admin/inc/caffeine.php on line 3006
+[05-Aug-2020 09:54:10 America/Chicago] PHP Notice:  Undefined variable: acgt in /home/sunsouth/public_html/site-admin/inc/asyncCalls.php on line 868
+[05-Aug-2020 09:54:10 America/Chicago] PHP Notice:  A session had already been started - ignoring session_start() in /home/sunsouth/public_html/site-admin/inc/caffeine.php on line 40
+[05-Aug-2020 09:54:10 America/Chicago] PHP Notice:  Undefined variable: messCount in /home/sunsouth/public_html/site-admin/inc/caffeine.php on line 3006
+[05-Aug-2020 09:54:11 America/Chicago] PHP Notice:  Undefined variable: acgt in /home/sunsouth/public_html/site-admin/inc/asyncCalls.php on line 868
+[05-Aug-2020 09:54:11 America/Chicago] PHP Notice:  A session had already been started - ignoring session_start() in /home/sunsouth/public_html/site-admin/inc/caffeine.php on line 40
+[05-Aug-2020 09:54:11 America/Chicago] PHP Notice:  Undefined variable: messCount in /home/sunsouth/public_html/site-admin/inc/caffeine.php on line 3006
+[05-Aug-2020 09:54:15 America/Chicago] PHP Notice:  Undefined variable: acgt in /home/sunsouth/public_html/site-admin/inc/asyncCalls.php on line 868
+[05-Aug-2020 09:54:15 America/Chicago] PHP Notice:  A session had already been started - ignoring session_start() in /home/sunsouth/public_html/site-admin/inc/caffeine.php on line 40
+[05-Aug-2020 09:54:15 America/Chicago] PHP Notice:  Undefined variable: messCount in /home/sunsouth/public_html/site-admin/inc/caffeine.php on line 3006
+[05-Aug-2020 09:54:16 America/Chicago] PHP Notice:  Undefined variable: acgt in /home/sunsouth/public_html/site-admin/inc/asyncCalls.php on line 868
+[05-Aug-2020 09:54:16 America/Chicago] PHP Notice:  A session had already been started - ignoring session_start() in /home/sunsouth/public_html/site-admin/inc/caffeine.php on line 40
+[05-Aug-2020 09:54:16 America/Chicago] PHP Notice:  Undefined variable: messCount in /home/sunsouth/public_html/site-admin/inc/caffeine.php on line 3006
+[05-Aug-2020 09:54:16 America/Chicago] PHP Notice:  Undefined variable: acgt in /home/sunsouth/public_html/site-admin/inc/asyncCalls.php on line 868
+[05-Aug-2020 09:54:16 America/Chicago] PHP Notice:  A session had already been started - ignoring session_start() in /home/sunsouth/public_html/site-admin/inc/caffeine.php on line 40
+[05-Aug-2020 09:54:16 America/Chicago] PHP Notice:  Undefined variable: messCount in /home/sunsouth/public_html/site-admin/inc/caffeine.php on line 3006
+[05-Aug-2020 09:54:21 America/Chicago] PHP Notice:  Undefined variable: acgt in /home/sunsouth/public_html/site-admin/inc/asyncCalls.php on line 868
+[05-Aug-2020 09:54:21 America/Chicago] PHP Notice:  A session had already been started - ignoring session_start() in /home/sunsouth/public_html/site-admin/inc/caffeine.php on line 40
+[05-Aug-2020 09:54:21 America/Chicago] PHP Notice:  Undefined variable: messCount in /home/sunsouth/public_html/site-admin/inc/caffeine.php on line 3006
+[05-Aug-2020 09:54:21 America/Chicago] PHP Notice:  Undefined variable: acgt in /home/sunsouth/public_html/site-admin/inc/asyncCalls.php on line 868
+[05-Aug-2020 09:54:21 America/Chicago] PHP Notice:  A session had already been started - ignoring session_start() in /home/sunsouth/public_html/site-admin/inc/caffeine.php on line 40
+[05-Aug-2020 09:54:21 America/Chicago] PHP Notice:  Undefined variable: messCount in /home/sunsouth/public_html/site-admin/inc/caffeine.php on line 3006
+[05-Aug-2020 09:54:21 America/Chicago] PHP Notice:  Undefined variable: acgt in /home/sunsouth/public_html/site-admin/inc/asyncCalls.php on line 868
+[05-Aug-2020 09:54:21 America/Chicago] PHP Notice:  A session had already been started - ignoring session_start() in /home/sunsouth/public_html/site-admin/inc/caffeine.php on line 40
+[05-Aug-2020 09:54:21 America/Chicago] PHP Notice:  Undefined variable: messCount in /home/sunsouth/public_html/site-admin/inc/caffeine.php on line 3006
+[05-Aug-2020 09:54:26 America/Chicago] PHP Notice:  Undefined variable: acgt in /home/sunsouth/public_html/site-admin/inc/asyncCalls.php on line 868
+[05-Aug-2020 09:54:26 America/Chicago] PHP Notice:  A session had already been started - ignoring session_start() in /home/sunsouth/public_html/site-admin/inc/caffeine.php on line 40
+[05-Aug-2020 09:54:26 America/Chicago] PHP Notice:  Undefined variable: messCount in /home/sunsouth/public_html/site-admin/inc/caffeine.php on line 3006
+[05-Aug-2020 09:54:26 America/Chicago] PHP Notice:  Undefined variable: acgt in /home/sunsouth/public_html/site-admin/inc/asyncCalls.php on line 868
+[05-Aug-2020 09:54:26 America/Chicago] PHP Notice:  A session had already been started - ignoring session_start() in /home/sunsouth/public_html/site-admin/inc/caffeine.php on line 40
+[05-Aug-2020 09:54:26 America/Chicago] PHP Notice:  Undefined variable: messCount in /home/sunsouth/public_html/site-admin/inc/caffeine.php on line 3006
+[05-Aug-2020 09:54:26 America/Chicago] PHP Notice:  Undefined variable: acgt in /home/sunsouth/public_html/site-admin/inc/asyncCalls.php on line 868
+[05-Aug-2020 09:54:26 America/Chicago] PHP Notice:  A session had already been started - ignoring session_start() in /home/sunsouth/public_html/site-admin/inc/caffeine.php on line 40
+[05-Aug-2020 09:54:26 America/Chicago] PHP Notice:  Undefined variable: messCount in /home/sunsouth/public_html/site-admin/inc/caffeine.php on line 3006
+[05-Aug-2020 09:54:30 America/Chicago] PHP Notice:  Undefined variable: acgt in /home/sunsouth/public_html/site-admin/inc/asyncCalls.php on line 868
+[05-Aug-2020 09:54:30 America/Chicago] PHP Notice:  Undefined variable: ars in /home/sunsouth/public_html/site-admin/inc/caffeine.php on line 2955
+[05-Aug-2020 09:54:30 America/Chicago] PHP Notice:  Undefined variable: acgt in /home/sunsouth/public_html/site-admin/inc/asyncCalls.php on line 868
+[05-Aug-2020 09:54:30 America/Chicago] PHP Notice:  A session had already been started - ignoring session_start() in /home/sunsouth/public_html/site-admin/inc/caffeine.php on line 40
+[05-Aug-2020 09:54:30 America/Chicago] PHP Notice:  Undefined variable: messCount in /home/sunsouth/public_html/site-admin/inc/caffeine.php on line 3006
+[05-Aug-2020 09:54:31 America/Chicago] PHP Notice:  Undefined variable: acgt in /home/sunsouth/public_html/site-admin/inc/asyncCalls.php on line 868
+[05-Aug-2020 09:54:31 America/Chicago] PHP Notice:  A session had already been started - ignoring session_start() in /home/sunsouth/public_html/site-admin/inc/caffeine.php on line 40
+[05-Aug-2020 09:54:31 America/Chicago] PHP Notice:  Undefined variable: messCount in /home/sunsouth/public_html/site-admin/inc/caffeine.php on line 3006
+[05-Aug-2020 09:54:32 America/Chicago] PHP Notice:  Undefined variable: acgt in /home/sunsouth/public_html/site-admin/inc/asyncCalls.php on line 868
+[05-Aug-2020 09:54:32 America/Chicago] PHP Notice:  A session had already been started - ignoring session_start() in /home/sunsouth/public_html/site-admin/inc/caffeine.php on line 40
+[05-Aug-2020 09:54:32 America/Chicago] PHP Notice:  Undefined variable: messCount in /home/sunsouth/public_html/site-admin/inc/caffeine.php on line 3006
+[05-Aug-2020 09:54:35 America/Chicago] PHP Notice:  Undefined variable: acgt in /home/sunsouth/public_html/site-admin/inc/asyncCalls.php on line 868
+[05-Aug-2020 09:54:35 America/Chicago] PHP Notice:  A session had already been started - ignoring session_start() in /home/sunsouth/public_html/site-admin/inc/caffeine.php on line 40
+[05-Aug-2020 09:54:35 America/Chicago] PHP Notice:  Undefined variable: messCount in /home/sunsouth/public_html/site-admin/inc/caffeine.php on line 3006
+[05-Aug-2020 09:54:36 America/Chicago] PHP Notice:  Undefined variable: acgt in /home/sunsouth/public_html/site-admin/inc/asyncCalls.php on line 868
+[05-Aug-2020 09:54:36 America/Chicago] PHP Notice:  A session had already been started - ignoring session_start() in /home/sunsouth/public_html/site-admin/inc/caffeine.php on line 40
+[05-Aug-2020 09:54:36 America/Chicago] PHP Notice:  Undefined variable: messCount in /home/sunsouth/public_html/site-admin/inc/caffeine.php on line 3006
+[05-Aug-2020 09:54:37 America/Chicago] PHP Notice:  Undefined variable: acgt in /home/sunsouth/public_html/site-admin/inc/asyncCalls.php on line 868
+[05-Aug-2020 09:54:37 America/Chicago] PHP Notice:  A session had already been started - ignoring session_start() in /home/sunsouth/public_html/site-admin/inc/caffeine.php on line 40
+[05-Aug-2020 09:54:37 America/Chicago] PHP Notice:  Undefined variable: messCount in /home/sunsouth/public_html/site-admin/inc/caffeine.php on line 3006
+[05-Aug-2020 09:54:40 America/Chicago] PHP Notice:  Undefined variable: acgt in /home/sunsouth/public_html/site-admin/inc/asyncCalls.php on line 868
+[05-Aug-2020 09:54:40 America/Chicago] PHP Notice:  A session had already been started - ignoring session_start() in /home/sunsouth/public_html/site-admin/inc/caffeine.php on line 40
+[05-Aug-2020 09:54:40 America/Chicago] PHP Notice:  Undefined variable: messCount in /home/sunsouth/public_html/site-admin/inc/caffeine.php on line 3006
+[05-Aug-2020 09:54:42 America/Chicago] PHP Notice:  Undefined variable: acgt in /home/sunsouth/public_html/site-admin/inc/asyncCalls.php on line 868
+[05-Aug-2020 09:54:42 America/Chicago] PHP Notice:  A session had already been started - ignoring session_start() in /home/sunsouth/public_html/site-admin/inc/caffeine.php on line 40
+[05-Aug-2020 09:54:42 America/Chicago] PHP Notice:  Undefined variable: messCount in /home/sunsouth/public_html/site-admin/inc/caffeine.php on line 3006
+[05-Aug-2020 09:54:42 America/Chicago] PHP Notice:  Undefined variable: acgt in /home/sunsouth/public_html/site-admin/inc/asyncCalls.php on line 868
+[05-Aug-2020 09:54:42 America/Chicago] PHP Notice:  A session had already been started - ignoring session_start() in /home/sunsouth/public_html/site-admin/inc/caffeine.php on line 40
+[05-Aug-2020 09:54:42 America/Chicago] PHP Notice:  Undefined variable: messCount in /home/sunsouth/public_html/site-admin/inc/caffeine.php on line 3006
+[05-Aug-2020 09:54:45 America/Chicago] PHP Notice:  Undefined variable: acgt in /home/sunsouth/public_html/site-admin/inc/asyncCalls.php on line 868
+[05-Aug-2020 09:54:45 America/Chicago] PHP Notice:  A session had already been started - ignoring session_start() in /home/sunsouth/public_html/site-admin/inc/caffeine.php on line 40
+[05-Aug-2020 09:54:45 America/Chicago] PHP Notice:  Undefined variable: messCount in /home/sunsouth/public_html/site-admin/inc/caffeine.php on line 3006
+[05-Aug-2020 09:54:47 America/Chicago] PHP Notice:  Undefined variable: acgt in /home/sunsouth/public_html/site-admin/inc/asyncCalls.php on line 868
+[05-Aug-2020 09:54:47 America/Chicago] PHP Notice:  A session had already been started - ignoring session_start() in /home/sunsouth/public_html/site-admin/inc/caffeine.php on line 40
+[05-Aug-2020 09:54:47 America/Chicago] PHP Notice:  Undefined variable: messCount in /home/sunsouth/public_html/site-admin/inc/caffeine.php on line 3006
+[05-Aug-2020 09:54:48 America/Chicago] PHP Notice:  Undefined variable: acgt in /home/sunsouth/public_html/site-admin/inc/asyncCalls.php on line 868
+[05-Aug-2020 09:54:48 America/Chicago] PHP Notice:  A session had already been started - ignoring session_start() in /home/sunsouth/public_html/site-admin/inc/caffeine.php on line 40
+[05-Aug-2020 09:54:48 America/Chicago] PHP Notice:  Undefined variable: messCount in /home/sunsouth/public_html/site-admin/inc/caffeine.php on line 3006
+[05-Aug-2020 09:54:51 America/Chicago] PHP Notice:  Undefined variable: acgt in /home/sunsouth/public_html/site-admin/inc/asyncCalls.php on line 868
+[05-Aug-2020 09:54:51 America/Chicago] PHP Notice:  A session had already been started - ignoring session_start() in /home/sunsouth/public_html/site-admin/inc/caffeine.php on line 40
+[05-Aug-2020 09:54:51 America/Chicago] PHP Notice:  Undefined variable: messCount in /home/sunsouth/public_html/site-admin/inc/caffeine.php on line 3006
+[05-Aug-2020 09:54:52 America/Chicago] PHP Notice:  Undefined variable: acgt in /home/sunsouth/public_html/site-admin/inc/asyncCalls.php on line 868
+[05-Aug-2020 09:54:52 America/Chicago] PHP Notice:  A session had already been started - ignoring session_start() in /home/sunsouth/public_html/site-admin/inc/caffeine.php on line 40
+[05-Aug-2020 09:54:52 America/Chicago] PHP Notice:  Undefined variable: messCount in /home/sunsouth/public_html/site-admin/inc/caffeine.php on line 3006
+[05-Aug-2020 09:54:54 America/Chicago] PHP Notice:  Undefined variable: acgt in /home/sunsouth/public_html/site-admin/inc/asyncCalls.php on line 868
+[05-Aug-2020 09:54:54 America/Chicago] PHP Notice:  A session had already been started - ignoring session_start() in /home/sunsouth/public_html/site-admin/inc/caffeine.php on line 40
+[05-Aug-2020 09:54:54 America/Chicago] PHP Notice:  Undefined variable: messCount in /home/sunsouth/public_html/site-admin/inc/caffeine.php on line 3006
+[05-Aug-2020 09:54:56 America/Chicago] PHP Notice:  Undefined variable: acgt in /home/sunsouth/public_html/site-admin/inc/asyncCalls.php on line 868
+[05-Aug-2020 09:54:56 America/Chicago] PHP Notice:  A session had already been started - ignoring session_start() in /home/sunsouth/public_html/site-admin/inc/caffeine.php on line 40
+[05-Aug-2020 09:54:56 America/Chicago] PHP Notice:  Undefined variable: messCount in /home/sunsouth/public_html/site-admin/inc/caffeine.php on line 3006
+[05-Aug-2020 09:54:58 America/Chicago] PHP Notice:  Undefined variable: acgt in /home/sunsouth/public_html/site-admin/inc/asyncCalls.php on line 868
+[05-Aug-2020 09:54:58 America/Chicago] PHP Notice:  A session had already been started - ignoring session_start() in /home/sunsouth/public_html/site-admin/inc/caffeine.php on line 40
+[05-Aug-2020 09:54:58 America/Chicago] PHP Notice:  Undefined variable: messCount in /home/sunsouth/public_html/site-admin/inc/caffeine.php on line 3006
+[05-Aug-2020 09:56:06 America/Chicago] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user 'sunsouth_webdev'@'localhost' to database 'sunsouth' in /home/sunsouth/public_html/site-admin/inc/harness.php on line 7
+[05-Aug-2020 09:56:06 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/sunsouth/public_html/site-admin/inc/harness.php:7) in /home/sunsouth/public_html/site-admin/inc/caffeine.php on line 40
+[05-Aug-2020 09:56:06 America/Chicago] PHP Fatal error:  Call to a member function query() on a non-object in /home/sunsouth/public_html/site-admin/inc/caffeine.php on line 43
+[05-Aug-2020 09:56:06 America/Chicago] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user 'sunsouth_webdev'@'localhost' to database 'sunsouth' in /home/sunsouth/public_html/site-admin/inc/harness.php on line 7
+[05-Aug-2020 09:56:06 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/sunsouth/public_html/site-admin/inc/harness.php:7) in /home/sunsouth/public_html/site-admin/inc/caffeine.php on line 40
+[05-Aug-2020 09:56:06 America/Chicago] PHP Fatal error:  Call to a member function query() on a non-object in /home/sunsouth/public_html/site-admin/inc/caffeine.php on line 43
+[05-Aug-2020 09:56:11 America/Chicago] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user 'sunsouth_webdev'@'localhost' to database 'sunsouth' in /home/sunsouth/public_html/site-admin/inc/harness.php on line 7
+[05-Aug-2020 09:56:11 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/sunsouth/public_html/site-admin/inc/harness.php:7) in /home/sunsouth/public_html/site-admin/inc/caffeine.php on line 40
+[05-Aug-2020 09:56:11 America/Chicago] PHP Fatal error:  Call to a member function query() on a non-object in /home/sunsouth/public_html/site-admin/inc/caffeine.php on line 43
+[05-Aug-2020 09:56:13 America/Chicago] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user 'sunsouth_webdev'@'localhost' to database 'sunsouth' in /home/sunsouth/public_html/site-admin/inc/harness.php on line 7
+[05-Aug-2020 09:56:13 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/sunsouth/public_html/site-admin/inc/harness.php:7) in /home/sunsouth/public_html/site-admin/inc/caffeine.php on line 40
+[05-Aug-2020 09:56:13 America/Chicago] PHP Fatal error:  Call to a member function query() on a non-object in /home/sunsouth/public_html/site-admin/inc/caffeine.php on line 43
+[05-Aug-2020 09:56:16 America/Chicago] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user 'sunsouth_webdev'@'localhost' to database 'sunsouth' in /home/sunsouth/public_html/site-admin/inc/harness.php on line 7
+[05-Aug-2020 09:56:16 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/sunsouth/public_html/site-admin/inc/harness.php:7) in /home/sunsouth/public_html/site-admin/inc/caffeine.php on line 40
+[05-Aug-2020 09:56:16 America/Chicago] PHP Fatal error:  Call to a member function query() on a non-object in /home/sunsouth/public_html/site-admin/inc/caffeine.php on line 43
+[05-Aug-2020 09:56:18 America/Chicago] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user 'sunsouth_webdev'@'localhost' to database 'sunsouth' in /home/sunsouth/public_html/site-admin/inc/harness.php on line 7
+[05-Aug-2020 09:56:18 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/sunsouth/public_html/site-admin/inc/harness.php:7) in /home/sunsouth/public_html/site-admin/inc/caffeine.php on line 40
+[05-Aug-2020 09:56:18 America/Chicago] PHP Fatal error:  Call to a member function query() on a non-object in /home/sunsouth/public_html/site-admin/inc/caffeine.php on line 43
+[05-Aug-2020 09:56:21 America/Chicago] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user 'sunsouth_webdev'@'localhost' to database 'sunsouth' in /home/sunsouth/public_html/site-admin/inc/harness.php on line 7
+[05-Aug-2020 09:56:21 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/sunsouth/public_html/site-admin/inc/harness.php:7) in /home/sunsouth/public_html/site-admin/inc/caffeine.php on line 40
+[05-Aug-2020 09:56:21 America/Chicago] PHP Fatal error:  Call to a member function query() on a non-object in /home/sunsouth/public_html/site-admin/inc/caffeine.php on line 43
+[05-Aug-2020 09:56:26 America/Chicago] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user 'sunsouth_webdev'@'localhost' to database 'sunsouth' in /home/sunsouth/public_html/site-admin/inc/harness.php on line 7
+[05-Aug-2020 09:56:26 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/sunsouth/public_html/site-admin/inc/harness.php:7) in /home/sunsouth/public_html/site-admin/inc/caffeine.php on line 40
+[05-Aug-2020 09:56:26 America/Chicago] PHP Fatal error:  Call to a member function query() on a non-object in /home/sunsouth/public_html/site-admin/inc/caffeine.php on line 43
+[05-Aug-2020 09:56:26 America/Chicago] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user 'sunsouth_webdev'@'localhost' to database 'sunsouth' in /home/sunsouth/public_html/site-admin/inc/harness.php on line 7
+[05-Aug-2020 09:56:26 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/sunsouth/public_html/site-admin/inc/harness.php:7) in /home/sunsouth/public_html/site-admin/inc/caffeine.php on line 40
+[05-Aug-2020 09:56:26 America/Chicago] PHP Fatal error:  Call to a member function query() on a non-object in /home/sunsouth/public_html/site-admin/inc/caffeine.php on line 43
+[05-Aug-2020 09:56:32 America/Chicago] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user 'sunsouth_webdev'@'localhost' to database 'sunsouth' in /home/sunsouth/public_html/site-admin/inc/harness.php on line 7
+[05-Aug-2020 09:56:32 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/sunsouth/public_html/site-admin/inc/harness.php:7) in /home/sunsouth/public_html/site-admin/inc/caffeine.php on line 40
+[05-Aug-2020 09:56:32 America/Chicago] PHP Fatal error:  Call to a member function query() on a non-object in /home/sunsouth/public_html/site-admin/inc/caffeine.php on line 43
+[05-Aug-2020 09:56:33 America/Chicago] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user 'sunsouth_webdev'@'localhost' to database 'sunsouth' in /home/sunsouth/public_html/site-admin/inc/harness.php on line 7
+[05-Aug-2020 09:56:33 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/sunsouth/public_html/site-admin/inc/harness.php:7) in /home/sunsouth/public_html/site-admin/inc/caffeine.php on line 40
+[05-Aug-2020 09:56:33 America/Chicago] PHP Fatal error:  Call to a member function query() on a non-object in /home/sunsouth/public_html/site-admin/inc/caffeine.php on line 43
+[05-Aug-2020 09:56:37 America/Chicago] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user 'sunsouth_webdev'@'localhost' to database 'sunsouth' in /home/sunsouth/public_html/site-admin/inc/harness.php on line 7
+[05-Aug-2020 09:56:37 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/sunsouth/public_html/site-admin/inc/harness.php:7) in /home/sunsouth/public_html/site-admin/inc/caffeine.php on line 40
+[05-Aug-2020 09:56:37 America/Chicago] PHP Fatal error:  Call to a member function query() on a non-object in /home/sunsouth/public_html/site-admin/inc/caffeine.php on line 43
+[05-Aug-2020 09:56:40 America/Chicago] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user 'sunsouth_webdev'@'localhost' to database 'sunsouth' in /home/sunsouth/public_html/site-admin/inc/harness.php on line 7
+[05-Aug-2020 09:56:40 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/sunsouth/public_html/site-admin/inc/harness.php:7) in /home/sunsouth/public_html/site-admin/inc/caffeine.php on line 40
+[05-Aug-2020 09:56:40 America/Chicago] PHP Fatal error:  Call to a member function query() on a non-object in /home/sunsouth/public_html/site-admin/inc/caffeine.php on line 43
+[05-Aug-2020 09:56:42 America/Chicago] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user 'sunsouth_webdev'@'localhost' to database 'sunsouth' in /home/sunsouth/public_html/site-admin/inc/harness.php on line 7
+[05-Aug-2020 09:56:42 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/sunsouth/public_html/site-admin/inc/harness.php:7) in /home/sunsouth/public_html/site-admin/inc/caffeine.php on line 40
+[05-Aug-2020 09:56:42 America/Chicago] PHP Fatal error:  Call to a member function query() on a non-object in /home/sunsouth/public_html/site-admin/inc/caffeine.php on line 43
+[05-Aug-2020 09:56:46 America/Chicago] PHP Notice:  Undefined variable: acgt in /home/sunsouth/public_html/site-admin/inc/asyncCalls.php on line 868
+[05-Aug-2020 09:56:46 America/Chicago] PHP Notice:  A session had already been started - ignoring session_start() in /home/sunsouth/public_html/site-admin/inc/caffeine.php on line 40
+[05-Aug-2020 09:56:46 America/Chicago] PHP Notice:  Undefined variable: messCount in /home/sunsouth/public_html/site-admin/inc/caffeine.php on line 3006
+[05-Aug-2020 09:56:47 America/Chicago] PHP Notice:  Undefined variable: acgt in /home/sunsouth/public_html/site-admin/inc/asyncCalls.php on line 868
+[05-Aug-2020 09:56:47 America/Chicago] PHP Notice:  A session had already been started - ignoring session_start() in /home/sunsouth/public_html/site-admin/inc/caffeine.php on line 40
+[05-Aug-2020 09:56:47 America/Chicago] PHP Notice:  Undefined variable: messCount in /home/sunsouth/public_html/site-admin/inc/caffeine.php on line 3006
+[05-Aug-2020 09:56:51 America/Chicago] PHP Notice:  Undefined variable: acgt in /home/sunsouth/public_html/site-admin/inc/asyncCalls.php on line 868
+[05-Aug-2020 09:56:51 America/Chicago] PHP Notice:  Undefined variable: ars in /home/sunsouth/public_html/site-admin/inc/caffeine.php on line 2955
+[05-Aug-2020 09:56:52 America/Chicago] PHP Notice:  Undefined variable: acgt in /home/sunsouth/public_html/site-admin/inc/asyncCalls.php on line 868
+[05-Aug-2020 09:56:52 America/Chicago] PHP Notice:  A session had already been started - ignoring session_start() in /home/sunsouth/public_html/site-admin/inc/caffeine.php on line 40
+[05-Aug-2020 09:56:52 America/Chicago] PHP Notice:  Undefined variable: messCount in /home/sunsouth/public_html/site-admin/inc/caffeine.php on line 3006
+[05-Aug-2020 09:56:52 America/Chicago] PHP Notice:  Undefined variable: acgt in /home/sunsouth/public_html/site-admin/inc/asyncCalls.php on line 868
+[05-Aug-2020 09:56:52 America/Chicago] PHP Notice:  A session had already been started - ignoring session_start() in /home/sunsouth/public_html/site-admin/inc/caffeine.php on line 40
+[05-Aug-2020 09:56:52 America/Chicago] PHP Notice:  Undefined variable: messCount in /home/sunsouth/public_html/site-admin/inc/caffeine.php on line 3006
+[05-Aug-2020 09:56:53 America/Chicago] PHP Notice:  Undefined variable: acgt in /home/sunsouth/public_html/site-admin/inc/asyncCalls.php on line 868
+[05-Aug-2020 09:56:53 America/Chicago] PHP Notice:  A session had already been started - ignoring session_start() in /home/sunsouth/public_html/site-admin/inc/caffeine.php on line 40
+[05-Aug-2020 09:56:53 America/Chicago] PHP Notice:  Undefined variable: mess
+Û  T                                                    9   Ä  9Éi 9   Ä  ˘◊i     º    nTl     –   @           º   +  *@l                    º   >  T{l     @À¡          æ   p  „;l             ‡       æ   <  ‰ql     P   ‡          æ    ƒll     P   –         ¡   p Cl     –     P       ¡   t  Cl     ¿     `       ¡   t  Cl     ∞     p       ¡   t  „;l                    ¡   <  Ül        Ä        ¡   ⁄Tl       †        ¡   / ƒll     P   P  0      ¬   p Cl     P     P       ¬   t  W?l     P   @  @       ¬   =  È8l                    ¬   Å  ≤Ul          0      ¬   ‰Ol     0     `       ¬   t  Cl     ‡
+     p       ¬   t  „;l             @      ¬   <  W?l     P   ∞
+  H       ¬   =  È8l             P      ¬   Å  √]l     @  P  `      ¬   ƒSl     `            ¬   4 œTl                ¬   . ƒll     P    
+  P      ƒ   p W?l     `    
+  `      ƒ   =  DCl     
+     P       ƒ   A  È8l             p      ƒ   Å  ˛Ul     p  ‡	  Ä      ƒ   ‰Ol     Ä     P       ƒ   t  „;l             ê      ƒ   <  ƒSl     ê            ƒ   4 nTl       `           ƒ   +  T{l     Â¿b P	  h       ∆   p  Û:l                    ∆   <   ƒll     P   0	  x      »   p Cl     0	     P       »   t  Cl      	     `       »   t  Cl     	     p       »   t  „;l             ∞      »   <  ‰ql     `   ∞         »    éll     p   ¿         …    éll     Ä   ∞              ägl     `         Ä   À   { nTl       Ä          À   +  ˛dl     `   @         Õ   M  Ül        ê        Õ   NÆql     †            Õ    ƒll     ê      à      Œ   p z|l             0      Œ   ∏  zÅl     0     P       Œ   B  Û:l                    Œ   <   ƒll     ê   †  ò       œ   p „;l             P      œ   <  nTl     P             œ   +  Ntl     p   †          –    –ul     ê               –   â  ƒll     ê      ®       —   p „;l             p      —   <  ‰ql     ∞   p         —    ⁄ml     ∞   ‡  ê  ∏   “   äœTl     ê  `   ê      “   . ösl     ∞   ê   †      “   ƒSl     †      ê      “   4 nTl     ê  †           “   +  Ntl     `   †          ”    –ul     ∞               ”   â  éll     Ä              ‘    J8l     @               ‘   *   ∫tl     `   †           ÷   K J8l      ˝ˇˇ            Õ   *   ÍRl                    Õ     ƒll     P   ê  ¿      €   p Cl     ê     P       €   t  >jl     `      `       €   B  Cl     `     p       €   t  Û:l             !       €   <   >el     Ä   ¿   ‡      ›   . W?l     p     –      ›   =  Ëil     P      P       ›   u  DCl     ‡     `       ›   A  È8l                   ›   Å  ƒSl           ‡      ›   4 nTl     ‡  Ä           ›   +  ƒll     P   p  ÿ      ﬁ   p Cl     p     P       ﬁ   t  Û:l             $       ﬁ   <   ˛dl     p   ¿         ·   M  Ül       ê      †   ·   NÆql     †      '       ·    ƒll     ê   ‡  Ë       ‚   p Û:l             (       ‚   <   J8l     Äˇˇˇ            ·   *   ÍRl                   ·     *@l     Ä          ˇˇˇˇ‰   >  ¿∞ﬁﬂÈ*         ê∞ﬁﬂÈ*         0∞ﬁﬂÈ*          ∞ﬁﬂÈ*                       ≤ﬁﬂÈ*         ∞±ﬁﬂÈ*         ò8√ﬂÈ*         ¿8√ﬂÈ*         ∞]›ﬂÈ*          ö+           »ØmﬁÈ*          ö+           ò8√ﬂÈ*         ¿8√ﬂÈ*         ∞]›ﬂÈ*         pz,           ˇˇ             »ØmﬁÈ*         pz,           Ä]›ﬂÈ*         P]›ﬂÈ*         –Ú)                         ,             p8√ﬂÈ*         9√ﬂÈ*         ò8√ﬂÈ*         ¿8√ﬂÈ*         `ﬁÂﬁÈ*          ö+           ¿èÿﬂÈ*         @Úø                          †⁄⁄ﬂÈ*          =⁄ﬂÈ*         Ë#ƒﬂÈ*         6√ﬂÈ*         Ù—ﬂÈ*         Ù—ﬂÈ*         ËÌ›ﬂÈ*         @6√ﬂÈ*                       Ä7√ﬂÈ*         07√ﬂÈ*         `ﬁÂﬁÈ*         ¿èÿﬂÈ*         @a+           –w‹ﬂÈ*         –w‹ﬂÈ*         y‹ﬂÈ*         ¿èÿﬂÈ*          a€ﬂÈ*          a€ﬂÈ*          ù¯¯ã°                                                        line 868
+[05-Aug-2020 09:57:12 America/Chicago] PHP Notice:  A session had already been started - ignoring session_start() in /home/sunsouth/public_html/site-admin/inc/caffeine.php on line 40
+[05-Aug-2020 09:57:12 America/Chicago] PHP Notice:  Undefined variable: messCount in /home/sunsouth/public_html/site-admin/inc/caffeine.php on line 3006
+[05-Aug-2020 09:57:13 America/Chicago] PHP Notice:  Undefined variable: acgt in /home/sunsouth/public_html/site-admin/inc/asyncCalls.php on line 868
+[05-Aug-2020 09:57:13 America/Chicago] PHP Notice:  A session had already been started - ignoring session_start() in /home/sunsouth/public_html/site-admin/inc/caffeine.php on line 40
+[05-Aug-2020 09:57:13 America/Chicago] PHP Notice:  Undefined variable: messCount in /home/sunsouth/public_html/site-admin/inc/caffeine.php on line 3006
+[05-Aug-2020 09:57:14 America/Chicago] PHP Notice:  Undefined variable: acgt in /home/sunsouth/public_html/site-admin/inc/asyncCalls.php on line 868
+[05-Aug-2020 09:57:14 America/Chicago] PHP Notice:  A session had already been started - ignoring session_start() in /home/sunsouth/public_html/site-admin/inc/caffeine.php on line 40
+[05-Aug-2020 09:57:14 America/Chicago] PHP Notice:  Undefined variable: messCount in /home/sunsouth/public_html/site-admin/inc/caffeine.php on line 3006
+[21-Dec-2020 16:29:39 America/Chicago] PHP Notice:  Undefined variable: acgt in /home/sunsouth/public_html/site-admin/inc/asyncCalls.php on line 868
+[21-Dec-2020 16:29:39 America/Chicago] PHP Notice:  A session had already been started - ignoring session_start() in /home/sunsouth/public_html/site-admin/inc/caffeine.php on line 40
+[21-Dec-2020 16:29:39 America/Chicago] PHP Notice:  Undefined variable: messCount in /home/sunsouth/public_html/site-admin/inc/caffeine.php on line 3077
+[21-Dec-2020 16:29:45 America/Chicago] PHP Notice:  Undefined variable: acgt in /home/sunsouth/public_html/site-admin/inc/asyncCalls.php on line 868
+[21-Dec-2020 16:29:45 America/Chicago] PHP Notice:  A session had already been started - ignoring session_start() in /home/sunsouth/public_html/site-admin/inc/caffeine.php on line 40
+[21-Dec-2020 16:29:46 America/Chicago] PHP Notice:  Undefined variable: messCount in /home/sunsouth/public_html/site-admin/inc/caffeine.php on line 3077
+[21-Dec-2020 16:29:51 America/Chicago] PHP Notice:  Undefined variable: acgt in /home/sunsouth/public_html/site-admin/inc/asyncCalls.php on line 868
+[21-Dec-2020 16:29:51 America/Chicago] PHP Notice:  A session had already been started - ignoring session_start() in /home/sunsouth/public_html/site-admin/inc/caffeine.php on line 40
+[21-Dec-2020 16:29:51 America/Chicago] PHP Notice:  Undefined variable: messCount in /home/sunsouth/public_html/site-admin/inc/caffeine.php on line 3077
+[21-Dec-2020 16:29:54 America/Chicago] PHP Notice:  Undefined variable: acgt in /home/sunsouth/public_html/site-admin/inc/asyncCalls.php on line 868
+[21-Dec-2020 16:29:54 America/Chicago] PHP Notice:  A session had already been started - ignoring session_start() in /home/sunsouth/public_html/site-admin/inc/caffeine.php on line 40
+[21-Dec-2020 16:29:54 America/Chicago] PHP Notice:  Undefined variable: messCount in /home/sunsouth/public_html/site-admin/inc/caffeine.php on line 3077
+[21-Dec-2020 16:29:54 America/Chicago] PHP Notice:  Undefined variable: acgt in /home/sunsouth/public_html/site-admin/inc/asyncCalls.php on line 868
+[21-Dec-2020 16:29:54 America/Chicago] PHP Notice:  Undefined variable: ars in /home/sunsouth/public_html/site-admin/inc/caffeine.php on line 3026
+[21-Dec-2020 16:29:58 America/Chicago] PHP Notice:  Undefined variable: acgt in /home/sunsouth/public_html/site-admin/inc/asyncCalls.php on line 868
+[21-Dec-2020 16:29:58 America/Chicago] PHP Notice:  Undefined variable: ars in /home/sunsouth/public_html/site-admin/inc/caffeine.php on line 3026
+[21-Dec-2020 16:29:58 America/Chicago] PHP Notice:  Undefined variable: acgt in /home/sunsouth/public_html/site-admin/inc/asyncCalls.php on line 868
+[21-Dec-2020 16:29:58 America/Chicago] PHP Notice:  A session had already been started - ignoring session_start() in /home/sunsouth/public_html/site-admin/inc/caffeine.php on line 40
+[21-Dec-2020 16:29:58 America/Chicago] PHP Notice:  Undefined variable: messCount in /home/sunsouth/public_html/site-admin/inc/caffeine.php on line 3077
+[21-Dec-2020 16:30:03 America/Chicago] PHP Notice:  Undefined variable: acgt in /home/sunsouth/public_html/site-admin/inc/asyncCalls.php on line 868
+[21-Dec-2020 16:30:03 America/Chicago] PHP Notice:  A session had already been started - ignoring session_start() in /home/sunsouth/public_html/site-admin/inc/caffeine.php on line 40
+[21-Dec-2020 16:30:03 America/Chicago] PHP Notice:  Undefined variable: messCount in /home/sunsouth/public_html/site-admin/inc/caffeine.php on line 3077
+[21-Dec-2020 16:30:07 America/Chicago] PHP Notice:  Undefined variable: acgt in /home/sunsouth/public_html/site-admin/inc/asyncCalls.php on line 868
+[21-Dec-2020 16:30:07 America/Chicago] PHP Notice:  A session had already been started - ignoring session_start() in /home/sunsouth/public_html/site-admin/inc/caffeine.php on line 40
+[21-Dec-2020 16:30:07 America/Chicago] PHP Notice:  Undefined variable: messCount in /home/sunsouth/public_html/site-admin/inc/caffeine.php on line 3077
+[21-Dec-2020 16:30:07 America/Chicago] PHP Notice:  Undefined variable: acgt in /home/sunsouth/public_html/site-admin/inc/asyncCalls.php on line 868
+[21-Dec-2020 16:30:07 America/Chicago] PHP Notice:  Undefined variable: ars in /home/sunsouth/public_html/site-admin/inc/caffeine.php on line 3026
+[21-Dec-2020 16:30:12 America/Chicago] PHP Notice:  Undefined variable: acgt in /home/sunsouth/public_html/site-admin/inc/asyncCalls.php on line 868
+[21-Dec-2020 16:30:12 America/Chicago] PHP Notice:  A session had already been started - ignoring session_start() in /home/sunsouth/public_html/site-admin/inc/caffeine.php on line 40
+[21-Dec-2020 16:30:12 America/Chicago] PHP Notice:  Undefined variable: messCount in /home/sunsouth/public_html/site-admin/inc/caffeine.php on line 3077
+[21-Dec-2020 16:30:17 America/Chicago] PHP Notice:  Undefined variable: acgt in /home/sunsouth/public_html/site-admin/inc/asyncCalls.php on line 868
+[21-Dec-2020 16:30:17 America/Chicago] PHP Notice:  A session had already been started - ignoring session_start() in /home/sunsouth/public_html/site-admin/inc/caffeine.php on line 40
+[21-Dec-2020 16:30:17 America/Chicago] PHP Notice:  Undefined variable: messCount in /home/sunsouth/public_html/site-admin/inc/caffeine.php on line 3077
+[21-Dec-2020 16:30:23 America/Chicago] PHP Notice:  Undefined variable: acgt in /home/sunsouth/public_html/site-admin/inc/asyncCalls.php on line 868
+[21-Dec-2020 16:30:23 America/Chicago] PHP Notice:  A session had already been started - ignoring session_start() in /home/sunsouth/public_html/site-admin/inc/caffeine.php on line 40
+[21-Dec-2020 16:30:23 America/Chicago] PHP Notice:  Undefined variable: messCount in /home/sunsouth/public_html/site-admin/inc/caffeine.php on line 3077
+[21-Dec-2020 16:30:28 America/Chicago] PHP Notice:  Undefined variable: acgt in /home/sunsouth/public_html/site-admin/inc/asyncCalls.php on line 868
+[21-Dec-2020 16:30:28 America/Chicago] PHP Notice:  A session had already been started - ignoring session_start() in /home/sunsouth/public_html/site-admin/inc/caffeine.php on line 40
+[21-Dec-2020 16:30:28 America/Chicago] PHP Notice:  Undefined variable: messCount in /home/sunsouth/public_html/site-admin/inc/caffeine.php on line 3077
+[21-Dec-2020 16:30:33 America/Chicago] PHP Notice:  Undefined variable: acgt in /home/sunsouth/public_html/site-admin/inc/asyncCalls.php on line 868
+[21-Dec-2020 16:30:33 America/Chicago] PHP Notice:  A session had already been started - ignoring session_start() in /home/sunsouth/public_html/site-admin/inc/caffeine.php on line 40
+[21-Dec-2020 16:30:33 America/Chicago] PHP Notice:  Undefined variable: messCount in /home/sunsouth/public_html/site-admin/inc/caffeine.php on line 3077
+[21-Dec-2020 16:30:38 America/Chicago] PHP Notice:  Undefined variable: acgt in /home/sunsouth/public_html/site-admin/inc/asyncCalls.php on line 868
+[21-Dec-2020 16:30:38 America/Chicago] PHP Notice:  A session had already been started - ignoring session_start() in /home/sunsouth/public_html/site-admin/inc/caffeine.php on line 40
+[21-Dec-2020 16:30:38 America/Chicago] PHP Notice:  Undefined variable: messCount in /home/sunsouth/public_html/site-admin/inc/caffeine.php on line 3077
+[21-Dec-2020 16:30:44 America/Chicago] PHP Notice:  Undefined variable: acgt in /home/sunsouth/public_html/site-admin/inc/asyncCalls.php on line 868
+[21-Dec-2020 16:30:44 America/Chicago] PHP Notice:  A session had already been started - ignoring session_start() in /home/sunsouth/public_html/site-admin/inc/caffeine.php on line 40
+[21-Dec-2020 16:30:44 America/Chicago] PHP Notice:  Undefined variable: messCount in /home/sunsouth/public_html/site-admin/inc/caffeine.php on line 3077
+[21-Dec-2020 16:30:49 America/Chicago] PHP Notice:  Undefined variable: acgt in /home/sunsouth/public_html/site-admin/inc/asyncCalls.php on line 868
+[21-Dec-2020 16:30:49 America/Chicago] PHP Notice:  A session had already been started - ignoring session_start() in /home/sunsouth/public_html/site-admin/inc/caffeine.php on line 40
+[21-Dec-2020 16:30:49 America/Chicago] PHP Notice:  Undefined variable: messCount in /home/sunsouth/public_html/site-admin/inc/caffeine.php on line 3077
+[21-Dec-2020 16:30:54 America/Chicago] PHP Notice:  Undefined variable: acgt in /home/sunsouth/public_html/site-admin/inc/asyncCalls.php on line 868
+[21-Dec-2020 16:30:54 America/Chicago] PHP Notice:  A session had already been started - ignoring session_start() in /home/sunsouth/public_html/site-admin/inc/caffeine.php on line 40
+[21-Dec-2020 16:30:54 America/Chicago] PHP Notice:  Undefined variable: messCount in /home/sunsouth/public_html/site-admin/inc/caffeine.php on line 3077
+[21-Dec-2020 16:31:00 America/Chicago] PHP Notice:  Undefined variable: acgt in /home/sunsouth/public_html/site-admin/inc/asyncCalls.php on line 868
+[21-Dec-2020 16:31:00 America/Chicago] PHP Notice:  A session had already been started - ignoring session_start() in /home/sunsouth/public_html/site-admin/inc/caffeine.php on line 40
+[21-Dec-2020 16:31:00 America/Chicago] PHP Notice:  Undefined variable: messCount in /home/sunsouth/public_html/site-admin/inc/caffeine.php on line 3077
+[21-Dec-2020 16:31:08 America/Chicago] PHP Notice:  Undefined variable: acgt in /home/sunsouth/public_html/site-admin/inc/asyncCalls.php on line 868
+[21-Dec-2020 16:31:08 America/Chicago] PHP Notice:  A session had already been started - ignoring session_start() in /home/sunsouth/public_html/site-admin/inc/caffeine.php on line 40
+[21-Dec-2020 16:31:08 America/Chicago] PHP Notice:  Undefined variable: messCount in /home/sunsouth/public_html/site-admin/inc/caffeine.php on line 3077
+[21-Dec-2020 16:31:14 America/Chicago] PHP Notice:  Undefined variable: acgt in /home/sunsouth/public_html/site-admin/inc/asyncCalls.php on line 868
+[21-Dec-2020 16:31:14 America/Chicago] PHP Notice:  A session had already been started - ignoring session_start() in /home/sunsouth/public_html/site-admin/inc/caffeine.php on line 40
+[21-Dec-2020 16:31:14 America/Chicago] PHP Notice:  Undefined variable: messCount in /home/sunsouth/public_html/site-admin/inc/caffeine.php on line 3077
+[21-Dec-2020 16:31:20 America/Chicago] PHP Notice:  Undefined variable: acgt in /home/sunsouth/public_html/site-admin/inc/asyncCalls.php on line 868
+[21-Dec-2020 16:31:20 America/Chicago] PHP Notice:  A session had already been started - ignoring session_start() in /home/sunsouth/public_html/site-admin/inc/caffeine.php on line 40
+[21-Dec-2020 16:31:20 America/Chicago] PHP Notice:  Undefined variable: messCount in /home/sunsouth/public_html/site-admin/inc/caffeine.php on line 3077
+[21-Dec-2020 16:31:28 America/Chicago] PHP Notice:  Undefined variable: acgt in /home/sunsouth/public_html/site-admin/inc/asyncCalls.php on line 868
+[21-Dec-2020 16:31:28 America/Chicago] PHP Notice:  A session had already been started - ignoring session_start() in /home/sunsouth/public_html/site-admin/inc/caffeine.php on line 40
+[21-Dec-2020 16:31:28 America/Chicago] PHP Notice:  Undefined variable: messCount in /home/sunsouth/public_html/site-admin/inc/caffeine.php on line 3077
+[21-Dec-2020 16:31:34 America/Chicago] PHP Notice:  Undefined variable: acgt in /home/sunsouth/public_html/site-admin/inc/asyncCalls.php on line 868
+[21-Dec-2020 16:31:34 America/Chicago] PHP Notice:  A session had already been started - ignoring session_start() in /home/sunsouth/public_html/site-admin/inc/caffeine.php on line 40
+[21-Dec-2020 16:31:34 America/Chicago] PHP Notice:  Undefined variable: messCount in /home/sunsouth/public_html/site-admin/inc/caffeine.php on line 3077
+[21-Dec-2020 16:31:41 America/Chicago] PHP Notice:  Undefined variable: acgt in /home/sunsouth/public_html/site-admin/inc/asyncCalls.php on line 868
+[21-Dec-2020 16:31:41 America/Chicago] PHP Notice:  A session had already been started - ignoring session_start() in /home/sunsouth/public_html/site-admin/inc/caffeine.php on line 40
+[21-Dec-2020 16:31:41 America/Chicago] PHP Notice:  Undefined variable: messCount in /home/sunsouth/public_html/site-admin/inc/caffeine.php on line 3077
+[21-Dec-2020 16:31:48 America/Chicago] PHP Notice:  Undefined variable: acgt in /home/sunsouth/public_html/site-admin/inc/asyncCalls.php on line 868
+[21-Dec-2020 16:31:48 America/Chicago] PHP Notice:  A session had already been started - ignoring session_start() in /home/sunsouth/public_html/site-admin/inc/caffeine.php on line 40
+[21-Dec-2020 16:31:48 America/Chicago] PHP Notice:  Undefined variable: messCount in /home/sunsouth/public_html/site-admin/inc/caffeine.php on line 3077
+[21-Dec-2020 16:31:54 America/Chicago] PHP Notice:  Undefined variable: acgt in /home/sunsouth/public_html/site-admin/inc/asyncCalls.php on line 868
+[21-Dec-2020 16:31:54 America/Chicago] PHP Notice:  A session had already been started - ignoring session_start() in /home/sunsouth/public_html/site-admin/inc/caffeine.php on line 40
+[21-Dec-2020 16:31:54 America/Chicago] PHP Notice:  Undefined variable: messCount in /home/sunsouth/public_html/site-admin/inc/caffeine.php on line 3077
+[21-Dec-2020 16:32:00 America/Chicago] PHP Notice:  Undefined variable: acgt in /home/sunsouth/public_html/site-admin/inc/asyncCalls.php on line 868
+[21-Dec-2020 16:32:00 America/Chicago] PHP Notice:  A session had already been started - ignoring session_start() in /home/sunsouth/public_html/site-admin/inc/caffeine.php on line 40
+[21-Dec-2020 16:32:00 America/Chicago] PHP Notice:  Undefined variable: messCount in /home/sunsouth/public_html/site-admin/inc/caffeine.php on line 3077
+[21-Dec-2020 16:32:06 America/Chicago] PHP Notice:  Undefined variable: acgt in /home/sunsouth/public_html/site-admin/inc/asyncCalls.php on line 868
+[21-Dec-2020 16:32:06 America/Chicago] PHP Notice:  A session had already been started - ignoring session_start() in /home/sunsouth/public_html/site-admin/inc/caffeine.php on line 40
+[21-Dec-2020 16:32:06 America/Chicago] PHP Notice:  Undefined variable: messCount in /home/sunsouth/public_html/site-admin/inc/caffeine.php on line 3077
+[21-Dec-2020 16:32:11 America/Chicago] PHP Notice:  Undefined variable: acgt in /home/sunsouth/public_html/site-admin/inc/asyncCalls.php on line 868
+[21-Dec-2020 16:32:11 America/Chicago] PHP Notice:  A session had already been started - ignoring session_start() in /home/sunsouth/public_html/site-admin/inc/caffeine.php on line 40
+[21-Dec-2020 16:32:11 America/Chicago] PHP Notice:  Undefined variable: messCount in /home/sunsouth/public_html/site-admin/inc/caffeine.php on line 3077
+[21-Dec-2020 16:32:17 America/Chicago] PHP Notice:  Undefined variable: acgt in /home/sunsouth/public_html/site-admin/inc/asyncCalls.php on line 868
+[21-Dec-2020 16:32:17 America/Chicago] PHP Notice:  A session had already been started - ignoring session_start() in /home/sunsouth/public_html/site-admin/inc/caffeine.php on line 40
+[21-Dec-2020 16:32:17 America/Chicago] PHP Notice:  Undefined variable: messCount in /home/sunsouth/public_html/site-admin/inc/caffeine.php on line 3077
+[21-Dec-2020 16:32:22 America/Chicago] PHP Notice:  Undefined variable: acgt in /home/sunsouth/public_html/site-admin/inc/asyncCalls.php on line 868
+[21-Dec-2020 16:32:22 America/Chicago] PHP Notice:  A session had already been started - ignoring session_start() in /home/sunsouth/public_html/site-admin/inc/caffeine.php on line 40
+[21-Dec-2020 16:32:22 America/Chicago] PHP Notice:  Undefined variable: messCount in /home/sunsouth/public_html/site-admin/inc/caffeine.php on line 3077
+[21-Dec-2020 16:32:27 America/Chicago] PHP Notice:  Undefined variable: acgt in /home/sunsouth/public_html/site-admin/inc/asyncCalls.php on line 868
+[21-Dec-2020 16:32:27 America/Chicago] PHP Notice:  A session had already been started - ignoring session_start() in /home/sunsouth/public_html/site-admin/inc/caffeine.php on line 40
+[21-Dec-2020 16:32:27 America/Chicago] PHP Notice:  Undefined variable: messCount in /home/sunsouth/public_html/site-admin/inc/caffeine.php on line 3077
+[21-Dec-2020 16:32:32 America/Chicago] PHP Notice:  Undefined variable: acgt in /home/sunsouth/public_html/site-admin/inc/asyncCalls.php on line 868
+[21-Dec-2020 16:32:32 America/Chicago] PHP Notice:  A session had already been started - ignoring session_start() in /home/sunsouth/public_html/site-admin/inc/caffeine.php on line 40
+[21-Dec-2020 16:32:32 America/Chicago] PHP Notice:  Undefined variable: messCount in /home/sunsouth/public_html/site-admin/inc/caffeine.php on line 3077
+[21-Dec-2020 16:32:38 America/Chicago] PHP Notice:  Undefined variable: acgt in /home/sunsouth/public_html/site-admin/inc/asyncCalls.php on line 868
+[21-Dec-2020 16:32:38 America/Chicago] PHP Notice:  A session had already been started - ignoring session_start() in /home/sunsouth/public_html/site-admin/inc/caffeine.php on line 40
+[21-Dec-2020 16:32:38 America/Chicago] PHP Notice:  Undefined variable: messCount in /home/sunsouth/public_html/site-admin/inc/caffeine.php on line 3077
+[21-Dec-2020 16:32:43 America/Chicago] PHP Notice:  Undefined variable: acgt in /home/sunsouth/public_html/site-admin/inc/asyncCalls.php on line 868
+[21-Dec-2020 16:32:43 America/Chicago] PHP Notice:  A session had already been started - ignoring session_start() in /home/sunsouth/public_html/site-admin/inc/caffeine.php on line 40
+[21-Dec-2020 16:32:43 America/Chicago] PHP Notice:  Undefined variable: messCount in /home/sunsouth/public_html/site-admin/inc/caffeine.php on line 3077
+[21-Dec-2020 16:32:48 America/Chicago] PHP Notice:  Undefined variable: acgt in /home/sunsouth/public_html/site-admin/inc/asyncCalls.php on line 868
+[21-Dec-2020 16:32:48 America/Chicago] PHP Notice:  A session had already been started - ignoring session_start() in /home/sunsouth/public_html/site-admin/inc/caffeine.php on line 40
+[21-Dec-2020 16:32:48 America/Chicago] PHP Notice:  Undefined variable: messCount in /home/sunsouth/public_html/site-admin/inc/caffeine.php on line 3077
+[21-Dec-2020 16:32:53 America/Chicago] PHP Notice:  Undefined variable: acgt in /home/sunsouth/public_html/site-admin/inc/asyncCalls.php on line 868
+[21-Dec-2020 16:32:53 America/Chicago] PHP Notice:  A session had already been started - ignoring session_start() in /home/sunsouth/public_html/site-admin/inc/caffeine.php on line 40
+[21-Dec-2020 16:32:53 America/Chicago] PHP Notice:  Undefined variable: messCount in /home/sunsouth/public_html/site-admin/inc/caffeine.php on line 3077
+[21-Dec-2020 16:32:59 America/Chicago] PHP Notice:  Undefined variable: acgt in /home/sunsouth/public_html/site-admin/inc/asyncCalls.php on line 868
+[21-Dec-2020 16:32:59 America/Chicago] PHP Notice:  A session had already been started - ignoring session_start() in /home/sunsouth/public_html/site-admin/inc/caffeine.php on line 40
+[21-Dec-2020 16:32:59 America/Chicago] PHP Notice:  Undefined variable: messCount in /home/sunsouth/public_html/site-admin/inc/caffeine.php on line 3077
+[21-Dec-2020 16:33:04 America/Chicago] PHP Notice:  Undefined variable: acgt in /home/sunsouth/public_html/site-admin/inc/asyncCalls.php on line 868
+[21-Dec-2020 16:33:04 America/Chicago] PHP Notice:  A session had already been started - ignoring session_start() in /home/sunsouth/public_html/site-admin/inc/caffeine.php on line 40
+[21-Dec-2020 16:33:04 America/Chicago] PHP Notice:  Undefined variable: messCount in /home/sunsouth/public_html/site-admin/inc/caffeine.php on line 3077
+[21-Dec-2020 16:33:10 America/Chicago] PHP Notice:  Undefined variable: acgt in /home/sunsouth/public_html/site-admin/inc/asyncCalls.php on line 868
+[21-Dec-2020 16:33:10 America/Chicago] PHP Notice:  A session had already been started - ignoring session_start() in /home/sunsouth/public_html/site-admin/inc/caffeine.php on line 40
+[21-Dec-2020 16:33:10 America/Chicago] PHP Notice:  Undefined variable: messCount in /home/sunsouth/public_html/site-admin/inc/caffeine.php on line 3077
+[21-Dec-2020 16:33:15 America/Chicago] PHP Notice:  Undefined variable: acgt in /home/sunsouth/public_html/site-admin/inc/asyncCalls.php on line 868
+[21-Dec-2020 16:33:15 America/Chicago] PHP Notice:  A session had already been started - ignoring session_start() in /home/sunsouth/public_html/site-admin/inc/caffeine.php on line 40
+[21-Dec-2020 16:33:15 America/Chicago] PHP Notice:  Undefined variable: messCount in /home/sunsouth/public_html/site-admin/inc/caffeine.php on line 3077
+[21-Dec-2020 16:33:16 America/Chicago] PHP Notice:  Undefined variable: acgt in /home/sunsouth/public_html/site-admin/inc/asyncCalls.php on line 868
+[21-Dec-2020 16:33:16 America/Chicago] PHP Notice:  A session had already been started - ignoring session_start() in /home/sunsouth/public_html/site-admin/inc/caffeine.php on line 40
+[21-Dec-2020 16:33:16 America/Chicago] PHP Notice:  Undefined variable: messCount in /home/sunsouth/public_html/site-admin/inc/caffeine.php on line 3077
+[21-Dec-2020 16:33:16 America/Chicago] PHP Notice:  Undefined variable: acgt in /home/sunsouth/public_html/site-admin/inc/asyncCalls.php on line 868
+[21-Dec-2020 16:33:16 America/Chicago] PHP Notice:  Undefined variable: ars in /home/sunsouth/public_html/site-admin/inc/caffeine.php on line 3026
+[21-Dec-2020 16:33:21 America/Chicago] PHP Notice:  Undefined variable: acgt in /home/sunsouth/public_html/site-admin/inc/asyncCalls.php on line 868
+[21-Dec-2020 16:33:21 America/Chicago] PHP Notice:  A session had already been started - ignoring session_start() in /home/sunsouth/public_html/site-admin/inc/caffeine.php on line 40
+[21-Dec-2020 16:33:21 America/Chicago] PHP Notice:  Undefined variable: messCount in /home/sunsouth/public_html/site-admin/inc/caffeine.php on line 3077
+[21-Dec-2020 16:33:27 America/Chicago] PHP Notice:  Undefined variable: acgt in /home/sunsouth/public_html/site-admin/inc/asyncCalls.php on line 868
+[21-Dec-2020 16:33:27 America/Chicago] PHP Notice:  A session had already been started - ignoring session_start() in /home/sunsouth/public_html/site-admin/inc/caffeine.php on line 40
+[21-Dec-2020 16:33:27 America/Chicago] PHP Notice:  Undefined variable: messCount in /home/sunsouth/public_html/site-admin/inc/caffeine.php on line 3077
+[21-Dec-2020 16:33:27 America/Chicago] PHP Notice:  Undefined variable: acgt in /home/sunsouth/public_html/site-admin/inc/asyncCalls.php on line 868
+[21-Dec-2020 16:33:27 America/Chicago] PHP Notice:  Undefined variable: ars in /home/sunsouth/public_html/site-admin/inc/caffeine.php on line 3026
+[21-Dec-2020 16:33:27 America/Chicago] PHP Notice:  Undefined variable: acgt in /home/sunsouth/public_html/site-admin/inc/asyncCalls.php on line 868
+[21-Dec-2020 16:33:27 America/Chicago] PHP Notice:  A session had already been started - ignoring session_start() in /home/sunsouth/public_html/site-admin/inc/caffeine.php on line 40
+[21-Dec-2020 16:33:27 America/Chicago] PHP Notice:  Undefined variable: messCount in /home/sunsouth/public_html/site-admin/inc/caffeine.php on line 3077
+[21-Dec-2020 16:33:33 America/Chicago] PHP Notice:  Undefined variable: acgt in /home/sunsouth/public_html/site-admin/inc/asyncCalls.php on line 868
+[21-Dec-2020 16:33:33 America/Chicago] PHP Notice:  A session had already been started - ignoring session_start() in /home/sunsouth/public_html/site-admin/inc/caffeine.php on line 40
+[21-Dec-2020 16:33:33 America/Chicago] PHP Notice:  Undefined variable: messCount in /home/sunsouth/public_html/site-admin/inc/caffeine.php on line 3077
+[21-Dec-2020 16:33:38 America/Chicago] PHP Notice:  Undefined variable: acgt in /home/sunsouth/public_html/site-admin/inc/asyncCalls.php on line 868
+[21-Dec-2020 16:33:38 America/Chicago] PHP Notice:  A session had already been started - ignoring session_start() in /home/sunsouth/public_html/site-admin/inc/caffeine.php on line 40
+[21-Dec-2020 16:33:38 America/Chicago] PHP Notice:  Undefined variable: messCount in /home/sunsouth/public_html/site-admin/inc/caffeine.php on line 3077
+[21-Dec-2020 16:33:42 America/Chicago] PHP Notice:  Undefined variable: acgt in /home/sunsouth/public_html/site-admin/inc/asyncCalls.php on line 868
+[21-Dec-2020 16:33:42 America/Chicago] PHP Notice:  Undefined variable: ars in /home/sunsouth/public_html/site-admin/inc/caffeine.php on line 3026
+[21-Dec-2020 16:33:42 America/Chicago] PHP Notice:  Undefined variable: acgt in /home/sunsouth/public_html/site-admin/inc/asyncCalls.php on line 868
+[21-Dec-2020 16:33:42 America/Chicago] PHP Notice:  A session had already been started - ignoring session_start() in /home/sunsouth/public_html/site-admin/inc/caffeine.php on line 40
+[21-Dec-2020 16:33:42 America/Chicago] PHP Notice:  Undefined variable: messCount in /home/sunsouth/public_html/site-admin/inc/caffeine.php on line 3077
+[21-Dec-2020 16:33:49 America/Chicago] PHP Notice:  Undefined variable: acgt in /home/sunsouth/public_html/site-admin/inc/asyncCalls.php on line 868
+[21-Dec-2020 16:33:49 America/Chicago] PHP Notice:  A session had already been started - ignoring session_start() in /home/sunsouth/public_html/site-admin/inc/caffeine.php on line 40
+[21-Dec-2020 16:33:49 America/Chicago] PHP Notice:  Undefined variable: messCount in /home/sunsouth/public_html/site-admin/inc/caffeine.php on line 3077
+[21-Dec-2020 16:33:54 America/Chicago] PHP Notice:  Undefined variable: acgt in /home/sunsouth/public_html/site-admin/inc/asyncCalls.php on line 868
+[21-Dec-2020 16:33:54 America/Chicago] PHP Notice:  A session had already been started - ignoring session_start() in /home/sunsouth/public_html/site-admin/inc/caffeine.php on line 40
+[21-Dec-2020 16:33:54 America/Chicago] PHP Notice:  Undefined variable: messCount in /home/sunsouth/public_html/site-admin/inc/caffeine.php on line 3077
+[21-Dec-2020 16:34:00 America/Chicago] PHP Notice:  Undefined variable: acgt in /home/sunsouth/public_html/site-admin/inc/asyncCalls.php on line 868
+[21-Dec-2020 16:34:00 America/Chicago] PHP Notice:  A session had already been started - ignoring session_start() in /home/sunsouth/public_html/site-admin/inc/caffeine.php on line 40
+[21-Dec-2020 16:34:00 America/Chicago] PHP Notice:  Undefined variable: messCount in /home/sunsouth/public_html/site-admin/inc/caffeine.php on line 3077
+[21-Dec-2020 16:34:07 America/Chicago] PHP Notice:  Undefined variable: acgt in /home/sunsouth/public_html/site-admin/inc/asyncCalls.php on line 868
+[21-Dec-2020 16:34:07 America/Chicago] PHP Notice:  A session had already been started - ignoring session_start() in /home/sunsouth/public_html/site-admin/inc/caffeine.php on line 40
+[21-Dec-2020 16:34:07 America/Chicago] PHP Notice:  Undefined variable: messCount in /home/sunsouth/public_html/site-admin/inc/caffeine.php on line 3077
+[21-Dec-2020 16:34:13 America/Chicago] PHP Notice:  Undefined variable: acgt in /home/sunsouth/public_html/site-admin/inc/asyncCalls.php on line 868
+[21-Dec-2020 16:34:13 America/Chicago] PHP Notice:  A session had already been started - ignoring session_start() in /home/sunsouth/public_html/site-admin/inc/caffeine.php on line 40
+[21-Dec-2020 16:34:13 America/Chicago] PHP Notice:  Undefined variable: messCount in /home/sunsouth/public_html/site-admin/inc/caffeine.php on line 3077
+[21-Dec-2020 16:34:19 America/Chicago] PHP Notice:  Undefined variable: acgt in /home/sunsouth/public_html/site-admin/inc/asyncCalls.php on line 868
+[21-Dec-2020 16:34:19 America/Chicago] PHP Notice:  A session had already been started - ignoring session_start() in /home/sunsouth/public_html/site-admin/inc/caffeine.php on line 40
+[21-Dec-2020 16:34:19 America/Chicago] PHP Notice:  Undefined variable: messCount in /home/sunsouth/public_html/site-admin/inc/caffeine.php on line 3077
+[08-Jan-2021 20:50:04 UTC] PHP Warning:  POST Content-Length of 16702341 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
+[08-Jan-2021 20:50:20 UTC] PHP Warning:  POST Content-Length of 16702341 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
+[08-Jan-2021 21:17:39 UTC] PHP Warning:  POST Content-Length of 16702341 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
+[08-Jan-2021 21:19:51 UTC] PHP Warning:  POST Content-Length of 16702335 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
+[28-Apr-2021 15:18:29 UTC] PHP Warning:  POST Content-Length of 37343719 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
+[01-Nov-2021 14:01:35 UTC] PHP Warning:  POST Content-Length of 14312213 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
+[29-Mar-2022 20:06:36 UTC] PHP Warning:  POST Content-Length of 23974788 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
+[22-Sep-2022 14:11:08 UTC] PHP Warning:  POST Content-Length of 11059251 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
+[22-Sep-2022 14:14:09 UTC] PHP Warning:  POST Content-Length of 11059251 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
+[22-Sep-2022 14:18:22 UTC] PHP Warning:  POST Content-Length of 11059251 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
+[20-Oct-2022 14:29:11 UTC] PHP Warning:  POST Content-Length of 29694530 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
+[20-Oct-2022 14:30:53 UTC] PHP Warning:  POST Content-Length of 29694529 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
+[20-Oct-2022 14:32:12 UTC] PHP Warning:  POST Content-Length of 29694526 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
+[06-Apr-2023 20:08:54 UTC] PHP Warning:  POST Content-Length of 12703622 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
+[06-Apr-2023 20:08:54 UTC] PHP Warning:  POST Content-Length of 13883986 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
+[06-Apr-2023 20:11:00 UTC] PHP Warning:  POST Content-Length of 12703622 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
+[06-Apr-2023 20:11:00 UTC] PHP Warning:  POST Content-Length of 13883986 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
