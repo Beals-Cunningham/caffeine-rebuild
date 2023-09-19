@@ -418,7 +418,7 @@ if(isset($_REQUEST["addslides"])){
     function intEdits(){
         var activeEditor = tinymce.init({
             selector: ".summernote",
-            skin: "caffiene",
+            skin: "caffeine",
             plugins: [
                 "advlist autolink link image lists charmap print preview hr anchor pagebreak",
                 "searchreplace wordcount visualblocks visualchars insertdatetime media nonbreaking",

@@ -239,7 +239,7 @@ if(isset($_POST['submit'])) {
     function initMobileMce(){
         tinymce.init({
             selector: ".summernotes",
-            skin: "caffiene",
+            skin: "caffeine",
             plugins: [
                 "advlist autolink link image lists charmap print preview hr anchor pagebreak",
                 "searchreplace wordcount visualblocks visualchars insertdatetime media nonbreaking",
@@ -380,7 +380,7 @@ if(isset($_POST['submit'])) {
 <!---->
 <!--        tinymce.init({-->
 <!--            selector: ".summernote",-->
-<!--            skin: "caffiene",-->
+<!--            skin: "caffeine",-->
 <!--            plugins: [-->
 <!--                "advlist autolink link image lists charmap print preview hr anchor pagebreak",-->
 <!--                "searchreplace wordcount visualblocks visualchars insertdatetime media nonbreaking",-->
