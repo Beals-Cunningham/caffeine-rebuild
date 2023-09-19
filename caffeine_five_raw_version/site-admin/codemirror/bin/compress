@@ -24,8 +24,8 @@
 
 var fs = require("fs");
 
-function escapeRegExp(string){
-  return string.replace(/([.*+?^${}()|[\]\/\\])/g, "\\$1");
+function escapeRegExp(s){
+  return s.replace(/([.*+?^${}()|[\]\/\\])/g, "\\$1");
 }
 
 function help(ok) {
