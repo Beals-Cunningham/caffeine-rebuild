@@ -632,18 +632,13 @@
     }
 
     function setImgDat(inputTarget,img,alttext){
-        //alert(inputTarget);
-        // $('input[name="'+inputTarget+'"]').val(img);
-        // $('input[name="alt"]').val(alttext);
-        // $('input[name="'+inputTarget+'"]').focus();
-        // $('input[name="alt"]').focus();
         var imgClean = img.replace("../../../../", "../");
         $('#'+inputTarget).val(imgClean);
         imgSucc();
     }
     function imgSucc(){
         swal({
-            title: 'Object Added',
+            title: 'Media Added',
             text: 'I will now close.',
             type: 'success'
             //timer: 2000
@@ -661,11 +656,10 @@
 
    function refreshMediaBrowse(){
        $(".img-browser").on('click',function(){
-           //alert('sdfsdf')
-           var itemsbefor = $(this).data('setter');
+           var media = $(this).data('setter');
 
            $(".modal-title").html('Select Media Folder');
-           $(".modal-body").html('<iframe id="themedia" style="width: 100%; height: 450px; border: none" src="media_manager.php?typeset=simple&returntarget='+itemsbefor+'&dirset=true"></iframe>');
+           $(".modal-body").html('<iframe id="themedia" style="width: 100%; height: 450px; border: none" src="media_manager.php?typeset=simple&returntarget='+media+'&dirset=true"></iframe>');
            $(".modal-dialog").css('width','869px');
            $(".modal").modal();
        })

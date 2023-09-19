@@ -153,7 +153,6 @@ var navbar = document.getElementById("new-navbar");
 
         var id = $("#comp-options").data("equipid");
         var val = this.value;
-        // alert(id+''+val);
 
         $.ajax({
             type: 'GET',

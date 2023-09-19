@@ -335,8 +335,6 @@
                 data: form.serialize(), // serializes the form's elements.
                 success: function(data)
                 {
-
-                    //alert(data);
                     window.location.replace("edit-page.php?page="+data);
                 }
             });
