@@ -26,25 +26,6 @@
 
     var recipients = $("#recipients").val();
 
-
-    // $.ajax({
-    //     type: 'POST',
-    //     // make sure you respect the same origin policy with this url:
-    //     // http://en.wikipedia.org/wiki/Same_origin_policy
-    //     url: 'inc/asyncCalls.php?action=saveform',
-    //     data: {
-    //         'formcontent': theData,
-    //         'form_json': thefrm,
-    //         'form_name': form_name,
-    //         'post_action': post_action,
-    //         'form_class':form_class,
-    //         'multi':multi,
-    //         'recipients':recipients
-    //     },
-    //     success: function(msg){
-    //         alert(msg);
-    //     }
-    // });
     function recallAddSlides() {
         var sliderid = $(".save-img").data("slideid");
         $("#add-slide-form").validate({

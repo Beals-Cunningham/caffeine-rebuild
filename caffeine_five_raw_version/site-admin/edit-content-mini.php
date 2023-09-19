@@ -569,8 +569,6 @@
     })
 
     function setplacer(ids,url){
-        alert(ids);
-
 
         $(".modal .modal-body").html('<iframe src="media_manager.php?returntarget='+ids+'" style="height:600px;width:100%; border: none"></iframe>');
         $(".modal .modal-title").html('Media Browser');

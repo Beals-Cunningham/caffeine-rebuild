@@ -42,11 +42,10 @@ date_default_timezone_set('America/Chicago');
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
     <link href="../../assets/css/style.css" rel="stylesheet" type="text/css">
     <style>
-        body {
 
-        }
-
-        iframe#content: 100vh !important;
+        iframe#content{
+            min-height: "100vh !important"
+        };
     </style>
 </head>
 
