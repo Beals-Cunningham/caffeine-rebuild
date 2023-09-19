@@ -641,11 +641,6 @@
     })
 
     function setImgDat(inputTarget,img,alttext){
-        //alert(inputTarget);
-        // $('input[name="'+inputTarget+'"]').val(img);
-        // $('input[name="alt"]').val(alttext);
-        // $('input[name="'+inputTarget+'"]').focus();
-        // $('input[name="alt"]').focus();
         var imgClean = img.replace("../../../../", "../");
         $('#'+inputTarget).val(imgClean);
         imgSucc();

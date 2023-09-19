@@ -24,6 +24,10 @@
 
 var fs = require("fs");
 
+function escapeRegExp(s){
+  return s.replace(/([.*+?^${}()|[\]\/\\])/g, "\\$1");
+}
+
 function help(ok) {
   console.log("usage: " + process.argv[1] + " [--local /path/to/uglifyjs] files...");
   process.exit(ok ? 0 : 1);
@@ -32,7 +36,7 @@ function help(ok) {
 var local = null, args = [], extraArgs = null, files = [], blob = "";
 
 for (var i = 2; i < process.argv.length; ++i) {
-  var arg = process.argv[i];
+  var arg = escapeRegExp(process.argv[i]);
   if (arg == "--local" && i + 1 < process.argv.length) {
     var parts = process.argv[++i].split(/\s+/);
     local = parts[0];

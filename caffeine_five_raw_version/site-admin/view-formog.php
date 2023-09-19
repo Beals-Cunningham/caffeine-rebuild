@@ -558,7 +558,7 @@ if(isset($_POST["start_this"])) {
 
         tinymce.init({
             selector: ".summernote",
-            skin: "caffiene",
+            skin: "caffeine",
             plugins: [
                 "advlist autolink link image lists charmap print preview hr anchor pagebreak",
                 "searchreplace wordcount visualblocks visualchars insertdatetime media nonbreaking",
@@ -1062,7 +1062,6 @@ if(isset($_POST["start_this"])) {
 
     function refreshMediaBrowse(){
         $(".img-browser").on('click',function(){
-            //alert('sdfsdf')
             var itemsbefor = $(this).data('setter');
 
             $(".modal-title").html('Select Media Folder');
@@ -1075,7 +1074,7 @@ if(isset($_POST["start_this"])) {
     function deleteForm(id){
         swal({
             title: 'Are you sure?',
-            text: "Once you delete this form all data will be removed and you will no longer be able to access any of it's data.",
+            text: "Once you delete this form, all data will be removed and you will no longer be able to access any of it's data.",
             type: 'warning',
             showCancelButton: true,
             confirmButtonText: 'Yes, delete it!',

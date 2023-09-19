@@ -113,9 +113,7 @@ $(function() {
         //console.log(eventTar);
         $.ajax({
             url:'inc/ajaxCalls.php?action=eventtrak&target='+eventTar+'&page='+lastPathSegment,
-            success: function(data){
-                // alert(data);
-            }
+
         })
     } );
   

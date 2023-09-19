@@ -427,7 +427,7 @@
         });
         tinymce.init({
             selector: ".summernote",
-            skin: "caffiene",
+            skin: "caffeine",
             plugins: [
                 "advlist autolink link image lists charmap print preview hr anchor pagebreak",
                 "searchreplace wordcount visualblocks visualchars insertdatetime media nonbreaking",
@@ -504,11 +504,6 @@
     }
 
     function setImgDat(inputTarget,img,alttext){
-        //alert(inputTarget);
-        // $('input[name="'+inputTarget+'"]').val(img);
-        // $('input[name="alt"]').val(alttext);
-        // $('input[name="'+inputTarget+'"]').focus();
-        // $('input[name="alt"]').focus();
         var imgClean = img.replace("../../../../", "../");
         $('#'+inputTarget).val(imgClean);
         imgSucc();

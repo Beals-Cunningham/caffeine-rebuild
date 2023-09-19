@@ -503,7 +503,7 @@
         });
         tinymce.init({
             selector: ".summernote",
-            skin: "caffiene",
+            skin: "caffeine",
             plugins: [
                 "advlist autolink link image lists charmap print preview hr anchor pagebreak",
                 "searchreplace wordcount visualblocks visualchars insertdatetime media nonbreaking",
@@ -569,8 +569,6 @@
     })
 
     function setplacer(ids,url){
-        alert(ids);
-
 
         $(".modal .modal-body").html('<iframe src="media_manager.php?returntarget='+ids+'" style="height:600px;width:100%; border: none"></iframe>');
         $(".modal .modal-title").html('Media Browser');
@@ -582,11 +580,6 @@
     }
 
     function setImgDat(inputTarget,img,alttext){
-        //alert(inputTarget);
-        // $('input[name="'+inputTarget+'"]').val(img);
-        // $('input[name="alt"]').val(alttext);
-        // $('input[name="'+inputTarget+'"]').focus();
-        // $('input[name="alt"]').focus();
         var imgClean = img.replace("../../../../", "../");
         $('#'+inputTarget).val(imgClean);
         imgSucc();

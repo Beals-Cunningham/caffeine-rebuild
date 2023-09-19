@@ -92,7 +92,7 @@
                         <div class="row">
 
                             <div class="col-xl-6">
-                                <div class="card-box" style="">
+                                <div class="card-box">
                                     <h4 class="text-dark  header-title m-t-0" style="margin-bottom: 0">Popular Pages</h4>
                                     <small>Shows up to 6 of your sites popular pages.</small>
                                     <br><br>
@@ -104,7 +104,7 @@
                             </div>
 
                             <div class="col-xl-6">
-                                <div class="card-box" style="">
+                                <div class="card-box">
                                     <h4 class="text-dark  header-title m-t-0" style="margin-bottom: 0">Object Event Tracking</h4>
                                     <small>Shows object click conversion data. | <a style="color: #2acaff; font-weight:bold" href="#" data-toggle="modal" data-target="#exampleModal"><i class="ti-info-alt"></i> Usage Instructions</a></small>
                                     <br><br>
@@ -450,7 +450,7 @@ $news = round($old);
     });
 
     function openDataAttusage(){
-        alert('HELLO THERE')
+
     }
 </script>
 

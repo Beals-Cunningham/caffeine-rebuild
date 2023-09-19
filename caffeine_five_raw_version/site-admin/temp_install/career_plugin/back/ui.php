@@ -42,11 +42,10 @@ date_default_timezone_set('America/Chicago');
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
     <link href="../../assets/css/style.css" rel="stylesheet" type="text/css">
     <style>
-        body {
 
+        iframe#content{
+            min-height: "100vh !important";
         }
-
-        iframe#content: 100vh !important;
     </style>
 </head>
 
@@ -297,7 +296,7 @@ if(isset($_POST["title"])){
         tinymce.remove();
         tinymce.init({
             selector: ".summernote",
-            skin: "caffiene",
+            skin: "caffeine",
             plugins: [
                 "advlist autolink link image lists charmap print preview hr anchor pagebreak",
                 "searchreplace wordcount visualblocks visualchars insertdatetime media nonbreaking",
@@ -366,7 +365,7 @@ if(isset($_POST["title"])){
     function intEdits(){
         tinymce.init({
             selector: ".summernote",
-            skin: "caffiene",
+            skin: "caffeine",
             plugins: [
                 "advlist autolink link image lists charmap print preview hr anchor pagebreak",
                 "searchreplace wordcount visualblocks visualchars insertdatetime media nonbreaking",

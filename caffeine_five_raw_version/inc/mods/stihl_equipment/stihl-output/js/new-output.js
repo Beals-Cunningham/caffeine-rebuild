@@ -153,25 +153,17 @@ var navbar = document.getElementById("new-navbar");
 
         var id = $("#comp-options").data("equipid");
         var val = this.value;
-        // alert(id+''+val);
 
         $.ajax({
             type: 'GET',
             url: 'inc/mods/deere_equipment/deere-output/compare.php?action=compare&value='+val+'&equipid='+id,
             dataType: 'json',
             success: function (data) {
-
-
-
-
                 var i = 0;
                 $('.table-striped .rowdata').each(function()
                 {
-                    if(data[i] == undefined) {
-
-                    }else {
+                    if(!data[i] == undefined) {
                         $(this).append('<td style="border:solid thin #b3afaf">' + data[i] + '</td>');
-
                         i++;
                     }
                 });

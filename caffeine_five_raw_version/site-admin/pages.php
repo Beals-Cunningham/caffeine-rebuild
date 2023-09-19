@@ -39,7 +39,7 @@
                                 <br>
                                 <div class="row">
                                     <div class="col-md-6">
-                                        <label>Parent Page</label><br><small>Select a parent page to keep page under certian categories.</small><br><br>
+                                        <label>Parent Page</label><br><small>Select a parent page to keep page under certain categories.</small><br><br>
                                         <select class="form-control" name="parent_page" id="parent_page">
                                             <option value="">Select Parent Page</option>
                                             <?php
@@ -335,8 +335,6 @@
                 data: form.serialize(), // serializes the form's elements.
                 success: function(data)
                 {
-
-                    //alert(data);
                     window.location.replace("edit-page.php?page="+data);
                 }
             });

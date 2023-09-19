@@ -771,7 +771,7 @@
 	<div>
 		<input name="{%=key%}" type="text" class="form-control"/>
 		
-		<div class="form-control autocomplete-list" style="min=height: 150px; overflow: auto;">
+		<div class="form-control autocomplete-list" style="min-height: 150px; overflow: auto;">
                   <div id="featured-product43"><i class="la la-close"></i> MacBook
                     <input name="product[]" value="43" type="hidden">
                   </div>
