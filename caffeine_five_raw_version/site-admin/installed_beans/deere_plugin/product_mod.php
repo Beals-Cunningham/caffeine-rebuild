@@ -509,7 +509,7 @@ $html .= '</form>';
     function initMobileMce(){
         tinymce.init({
             selector: ".summernotes",
-            skin: "caffiene",
+            skin: "caffeine",
             plugins: [
                 "advlist autolink link image lists charmap print preview hr anchor pagebreak",
                 "searchreplace wordcount visualblocks visualchars insertdatetime media nonbreaking",
