@@ -1003,11 +1003,6 @@ if(isset($_POST["start_this"])) {
     }
 
     function setImgDat(inputTarget,img,alttext){
-        //alert(inputTarget);
-        // $('input[name="'+inputTarget+'"]').val(img);
-        // $('input[name="alt"]').val(alttext);
-        // $('input[name="'+inputTarget+'"]').focus();
-        // $('input[name="alt"]').focus();
         var imgClean = img.replace("../../../../", "../");
         $('#'+inputTarget).val(imgClean);
         imgSucc();
@@ -1063,7 +1058,6 @@ if(isset($_POST["start_this"])) {
 
     function refreshMediaBrowse(){
         $(".img-browser").on('click',function(){
-            //alert('sdfsdf')
             var itemsbefor = $(this).data('setter');
 
             $(".modal-title").html('Select Media Folder');

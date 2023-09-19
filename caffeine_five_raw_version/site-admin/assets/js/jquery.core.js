@@ -159,9 +159,7 @@ function($) {
           $(this).trigger('notify-hide');
         });
         $(document).on('click', '.notifyjs-metro-base .yes', function() {
-          //show button text
-          alert($(this).text() + " clicked!");
-          //hide notification
+
           $(this).trigger('notify-hide');
         });
     },

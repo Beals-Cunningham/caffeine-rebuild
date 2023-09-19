@@ -192,8 +192,6 @@ function setViewType(a) {
 
 function rerunFiltration() {
 
-    alert('Hello There');
-
     parentObj = [], $(".target-box").each(function() {
         var a = $(this).data("filter-box");
         jsonObj = [], $(this).children("span").each(function() {
