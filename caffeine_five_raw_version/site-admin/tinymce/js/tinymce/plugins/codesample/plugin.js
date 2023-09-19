@@ -818,7 +818,7 @@ define(
     if (Prism.languages.markup) {
       Prism.languages.insertBefore('markup', 'tag', {
         'script': {
-          pattern: /<script[\w\W]*?>[\w\W]*?<\/script>/i,
+          pattern: /<script[\w\W]*?>[\w\W]*?<\/script\s*>/i,
           inside: {
             'tag': {
               pattern: /<script[\w\W]*?>|<\/script>/i,
