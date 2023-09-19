@@ -450,7 +450,7 @@ $news = round($old);
     });
 
     function openDataAttusage(){
-        alert('HELLO THERE')
+
     }
 </script>
 

@@ -24,15 +24,11 @@ function getMylatlong(){
             url: 'inc/getClose.php?act=getzipbase&zip='+locationzip,
             dataType: "json",
             success: function(data){
-                //alert('gonig');
                 var lat = data.dir.lat;
                 var long = data.dir.long;
-///console.log(lat+' '+long);
                 getClose(lat,long);
             }
         })
-    }else{
-        alert('Enter Zip Code');
     }
 }
 

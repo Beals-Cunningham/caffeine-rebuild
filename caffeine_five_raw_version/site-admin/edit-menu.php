@@ -420,13 +420,9 @@
         $("#mediamodal .modal-title").html('Media');
         $("#mediamodal").modal();
 
-
-        // $('input[name="src"]').val('http://192.168.100.65/Caff5.0/img/metal-background_720.jpg');
-
     }
 
     function setImgDat(inputTarget,img,alttext){
-        //alert(inputTarget);
         $('input[name="'+inputTarget+'"]').val(img);
         $('input[name="alt"]').val(alttext);
         $('input[name="'+inputTarget+'"]').focus();
