@@ -1,0 +1,413 @@
+/*!
+ * Hamburgers
+ * @description Tasty CSS-animated hamburgers
+ * @author Jonathan Suh @jonsuh
+ * @site https://jonsuh.com/hamburgers
+ * @link https://github.com/jonsuh/hamburgers
+ */
+ .hamburger {
+    padding: 15px 15px;
+    display: inline-block;
+    cursor: pointer;
+    transition-property: opacity, filter;
+    transition-duration: 0.15s;
+    transition-timing-function: linear;
+    font: inherit;
+    color: inherit;
+    text-transform: none;
+    background-color: transparent;
+    border: 0;
+    margin: 0;
+    overflow: visible; }
+.hamburger:hover {
+    opacity: 0.7; }
+.hamburger.is-active:hover {
+    opacity: 0.7; }
+.hamburger.is-active .hamburger-inner,
+.hamburger.is-active .hamburger-inner::before,
+.hamburger.is-active .hamburger-inner::after {
+    background-color:  white; }
+
+.hamburger-box {
+    width: 40px;
+    height: 24px;
+    display: inline-block;
+    position: relative; }
+
+.hamburger-inner {
+    display: block;
+    top: 50%;
+    margin-top: -2px; }
+.hamburger-inner, .hamburger-inner::before, .hamburger-inner::after {
+    width: 40px;
+    height: 4px;
+    background-color: #000;
+    border-radius: 4px;
+    position: absolute;
+    transition-property: transform;
+    transition-duration: 0.15s;
+    transition-timing-function: ease; }
+.hamburger-inner::before, .hamburger-inner::after {
+    content: "";
+    display: block; }
+.hamburger-inner::before {
+    top: -10px; }
+.hamburger-inner::after {
+    bottom: -10px; }
+
+    .basecht {
+        display: none !important;
+    }
+
+    .top-nav {
+        background: var(--bcss-active);
+    }
+
+    .top-nav .nav-link {
+        color: var(--bcss-secondary);
+    }
+
+    .bg-secondary {
+        background: var(--bcss-secondary) !important;
+        color: #fff !important;
+    }
+
+    .btn-success {
+        background: var(--bcss-secondary);
+        border: 3px solid #367C2B;
+        color: #fff;
+    }
+
+    .btn-success:hover {
+        background: #367C2B;
+        border: 3px solid var(--bcss-active);
+        color: #fff;
+    }
+
+    .filled-with-love {
+        fill: var(--bcss-secondary);
+    }
+
+    .modal-content {
+        background: repeating-linear-gradient(-45deg, #efefef, #efefef 10px, #fff 3px, #fff 15px);
+        border: none;
+        border-radius: 0;
+    }
+
+    .modal-header {
+        background: var(--bcss-secondary);
+        color: #fff;
+        font-size: 1.4rem;
+        line-height: 1.4rem;
+        font-weight: 700;
+        border-radius: 0;
+    }
+
+    .modal-title {
+        color: var(--bcss-active);
+    }
+
+    .modal-footer {
+        background-image: url(img/NewDesign/Green_Soil_2.png);
+        background-size: cover;
+        background-position: top center;
+        height: 75px;
+    }
+
+    .nav-pills {
+        background-color: #FFF;
+        color: black;
+        border-radius: 0;
+    }
+
+    .nav-link.active {
+        background-color: var(--bcss-active) !important;
+        color: black !important;
+        border-radius: 0;
+    }
+
+    .nav-link .bi-facebook,
+    .nav-link .bi-twitter,
+    .nav-link .bi-instagram,
+    .nav-link .bi-youtube,
+    .nav-link .bi-envelope-fill,
+    .nav-link .bi-telephone-fill {
+        width: 1rem;
+        height: 1rem;
+        transform: scale(1.35);
+        font-family: "industry", sans-serif;
+    }
+
+    .nav-link {
+        font-family: "industry", sans-serif;
+        font-weight: 600;
+        font-style: normal;
+    }
+
+    .dropdown-menu {
+        border-radius: 0;
+        padding: 10px;
+        border: none;
+        opacity: .9;
+    }
+
+    @media screen and (max-width: 1199px) {
+        .dropdown-menu {
+            background: var(--bcss-active);
+        }
+    }
+
+    .dropdown-item {
+        color: var(--bcss-secondary) !important;
+        font-family: "industry", sans-serif;
+        font-weight: 600;
+        font-style: normal;
+    }
+
+    .dropdown-item:hover {
+        background-color: var(--bcss-active);
+    }
+
+    .bottom-nav {
+        background: var(--bcss-light);
+    }
+
+    .bottom-nav .nav-link {
+        color: var(--bcss-secondary);
+    }
+
+    .rounded-icon {
+        width: 3rem;
+        height: 3rem;
+        border-radius: 50%;
+        background: var(--bcss-active);
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+
+    /* Fonts & Font Styles */
+    p,
+    li,
+    span,
+    a,
+    small,
+    button {
+        font-family: "industry", sans-serif;
+        font-weight: 500;
+        font-style: normal;
+    }
+
+    h1,
+    .green-head,
+    .yellow-head {
+        font-family: "industry-inc-stencil", sans-serif;
+        font-weight: 400;
+        font-style: normal;
+    }
+
+    h2,
+    h3,
+    h4,
+    h5 {
+        font-family: "industry", sans-serif;
+        font-weight: 600;
+        font-style: normal;
+    }
+
+    .btn {
+        border-radius: 0;
+        font-family: "industry", sans-serif;
+        font-weight: 500;
+        font-style: normal;
+    }
+
+    .hamburger-inner {
+        color: black;
+    }
+
+    .dropdown-item:hover {
+        background-color: var(--bcss-active);
+    }
+
+    .Industry-Thin {
+        font-family: "industry", sans-serif;
+        font-weight: 200;
+        font-style: normal;
+    }
+
+    .Industry-Thin-Italic {
+        font-family: "industry", sans-serif;
+        font-weight: 200;
+        font-style: italic;
+    }
+
+    .Industry-Light {
+        font-family: "industry", sans-serif;
+        font-weight: 300;
+        font-style: normal;
+    }
+
+    .Industry-Light-Italic {
+        font-family: "industry", sans-serif;
+        font-weight: 300;
+        font-style: italic;
+    }
+
+    .Industry-Book {
+        font-family: "industry", sans-serif;
+        font-weight: 400;
+        font-style: normal;
+    }
+
+    .Industry-Book-Italic {
+        font-family: "industry", sans-serif;
+        font-weight: 400;
+        font-style: italic;
+    }
+
+    .Industry-Medium {
+        font-family: "industry", sans-serif;
+        font-weight: 500;
+        font-style: normal;
+    }
+
+    .Industry-Medium-Italic {
+        font-family: "industry", sans-serif;
+        font-weight: 500;
+        font-style: italic;
+    }
+
+    .Industry-Demi {
+        font-family: "industry", sans-serif;
+        font-weight: 600;
+        font-style: normal;
+    }
+
+    .Industry-Demi-Italic {
+        font-family: "industry", sans-serif;
+        font-weight: 600;
+        font-style: italic;
+    }
+
+    .Industry-Bold {
+        font-family: "industry", sans-serif;
+        font-weight: 700;
+        font-style: normal;
+    }
+
+    .Industry-Bold-Italic {
+        font-family: "industry", sans-serif;
+        font-weight: 700;
+        font-style: italic;
+    }
+
+    .Industry-Black {
+        font-family: "industry", sans-serif;
+        font-weight: 800;
+        font-style: normal;
+    }
+
+    .Industry-Black-Italic {
+        font-family: "industry", sans-serif;
+        font-weight: 800;
+        font-style: italic;
+    }
+
+    .Industry-Ultra {
+        font-family: "industry", sans-serif;
+        font-weight: 900;
+        font-style: normal;
+    }
+
+    .Industry-Ultra-Italic {
+        font-family: "industry", sans-serif;
+        font-weight: 900;
+        font-style: italic;
+    }
+
+    .Industry-Inc-Stencil {
+        font-family: "industry-inc-stencil", sans-serif;
+        font-weight: 400;
+        font-style: normal;
+    }
+
+    .bottom-section {
+        background-image: linear-gradient(to bottom, rgba(0, 0, 0, 1), rgba(0, 0, 0, 1), rgba(0, 0, 0, 1), rgba(0, 0, 0, .1)), url('img/NewDesign/Black Diagonal Background Image.png');
+        width: 100%;
+        height: 100%;
+        background-size: cover;
+    }
+
+    .bottom-section-header {
+        font-size: 3.8rem;
+        margin: 0 auto 5px;
+        display: inline-block;
+        color: var(--bcss-light);
+        border-bottom: 5px solid var(--bcss-light);
+    }
+
+    .bottom-section-text {
+        font-size: .9rem;
+    }
+
+    .bottom-section-icon {
+        fill: var(--bcss-active);
+        width: 2rem;
+        height: 2rem;
+        vertical-align: middle;
+    }
+
+    .bottom-section-border {
+        border-right: 2px solid var(--bcss-active);
+    }
+
+    footer {
+        border-top: 5px solid var(--bcss-active);
+        background: var(--bcss-secondary);
+    }
+
+    footer h4 {
+        font-size: 1rem;
+    }
+
+    footer p {
+        font-size: .8rem;
+    }
+
+    footer h4 a {
+        color: var(--bcss-active) !important;
+    }
+
+    footer ul a {
+        color: var(--bcss-light) !important;
+        font-size: .8rem;
+    }
+
+    .footer-border-rigth {
+        border-right: 2px solid var(--bcss-light);
+    }
+
+    footer .bi-facebook,
+    footer .bi-twitter,
+    footer .bi-instagram,
+    footer .bi-youtube {
+        width: 1rem;
+        height: 1rem;
+        transform: scale(1.35);
+        fill: var(--bcss-light);
+    }
+
+    footer .bi-envelope-fill,
+    footer .bi-telephone-fill {
+        width: 1rem;
+        height: 1rem;
+        transform: scale(1.35);
+        fill: var(--bcss-secondary);
+    }
+
+    @media screen and (max-width: 575px) {
+        .bottom-section-border {
+            border-right: none;
+        }
+    }

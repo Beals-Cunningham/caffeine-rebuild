@@ -125,7 +125,7 @@ if (!(empty($pageDetails))) {
     <link href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/3.7.2/animate.min.css" rel="stylesheet">
     <!-- Adobe Font -->
     <link rel="stylesheet" href="https://use.typekit.net/bjm3uul.css">
-    <link rel="stylesheet" href="css/hamburgers.css">
+    <link rel="stylesheet" href="css/navigation.css">
 
 
     <?php
